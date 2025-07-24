@@ -15,9 +15,9 @@
 <!-- I really hope this works v3 -->
 <p>// recent commits:</p>
 
-<!-- DYNAMIC_INFO_START -->
+<!-- RECENT_ACTIVITY_START -->
 XXX
-<!-- DYNAMIC_INFO_END -->
+<!-- RECENT_ACTIVITY_END -->
 
 <br></br><br></br>
 
