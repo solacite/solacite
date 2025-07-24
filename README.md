@@ -1,7 +1,7 @@
 <div align="center">
     <img src="images/redYellowName_lightBeige.png" width="500">
-    <div style="height: 100px;"></div>
+    <br></br><br></br><br></br><br></br>
     <p>blah blah</p>
-    <div style="height: 50px;"></div>
+    <br></br>
     <img src="images/hinata.gif" width="100">
 </div>
