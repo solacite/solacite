@@ -13,7 +13,6 @@
 <br></br>
 
 <!-- I really hope this works v3 -->
-<p>// recent commits:</p>
 
 <!-- RECENT_ACTIVITY_START -->
 XXX
