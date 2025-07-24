@@ -15,15 +15,9 @@
 <!-- I really hope this works v3 -->
 <p>// recent commits:</p>
 
-<<<<<<< HEAD
 <!-- RECENT_ACTIVITY_START -->
 XXX
 <!-- RECENT_ACTIVITY_END -->
-=======
-<!-- DYNAMIC_INFO_START -->
-Hello, solacite! This README was last updated on 7/24/2025.
-<!-- DYNAMIC_INFO_END -->
->>>>>>> 94d6ff67e6797fdaba3a3f81cfc98ad5ef3339cf
 
 <br></br><br></br>
 
