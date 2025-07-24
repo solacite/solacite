@@ -1,6 +1,6 @@
 i forgot how to code
 
-![name: julia do](images/name.png)
+![name: julia do](images/smallerName.png)
 
 <!---
 solacite/solacite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
