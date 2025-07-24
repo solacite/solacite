@@ -1,7 +1,7 @@
 i forgot how to code
 
 <!--![name: julia do](images/smallerName.png)-->
-<img src="images/name.png" width="500">
+<img src="images/redYellowName.png" width="500">
 
 <!---
 solacite/solacite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
