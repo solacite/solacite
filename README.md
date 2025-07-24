@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="images/redYellowName_beige.png" width="500">
+    <img src="images/redYellowName_lightBeige.png" width="500">
 </div>
