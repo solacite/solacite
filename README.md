@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/f66092aa641b0c766001a8136bb0220a8704a329) in [solacite](https://github.com/solacite/solacite) - Jul 24, 2025
+[update readme for profile](https://github.com/solacite/profile/commit/b0adc2d94c3fc6b281e1817645b9ac5c831b04f4) in [profile](https://github.com/solacite/profile) - Jul 25, 2025
 
-[remove owner type parameter](https://github.com/solacite/profile/commit/36fbbb0e02243e824a258cb6ef800fa90ecf2cd5) in [profile](https://github.com/solacite/profile) - Jul 24, 2025
+[create images folder](https://github.com/solacite/piano/commit/9225fe5a55199fbf43e44f6c21f7b186a94db245) in [piano](https://github.com/solacite/piano) - Jul 25, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/f45192ca235fcc7d51c9964f8d8c13cfc8f1db68) in [solacite](https://github.com/solacite/solacite) - Jul 25, 2025
 
 [preload app again](https://github.com/solacite/pingu-market/commit/b81ffc4f13f0be26d54d2f28d2b76cb88dc8ec51) in [pingu-market](https://github.com/solacite/pingu-market) - Jul 24, 2025
 
 [fixed fading issue and formatted footer correctly](https://github.com/solacite/blog/commit/83bbcc71926acae08d1af7ff2052e60d2131bbc5) in [blog](https://github.com/solacite/blog) - Jul 21, 2025
-
-[add expressions to the most recently created/updated labels](https://github.com/solacite/bean-sprout/commit/4c43e223bad385763071243be31b420ce0500fc8) in [bean-sprout](https://github.com/solacite/bean-sprout) - Jul 14, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
