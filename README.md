@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[remove owner type parameter](https://github.com/solacite/profile/commit/36fbbb0e02243e824a258cb6ef800fa90ecf2cd5) in [profile](https://github.com/solacite/profile) - Jul 24, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/f66092aa641b0c766001a8136bb0220a8704a329) in [solacite](https://github.com/solacite/solacite) - Jul 24, 2025
 
-[update readme formatting](https://github.com/solacite/solacite/commit/b69c9966dbad6e4c21215eeafb25b2be284fe120) in [solacite](https://github.com/solacite/solacite) - Jul 24, 2025
+[remove owner type parameter](https://github.com/solacite/profile/commit/36fbbb0e02243e824a258cb6ef800fa90ecf2cd5) in [profile](https://github.com/solacite/profile) - Jul 24, 2025
 
 [preload app again](https://github.com/solacite/pingu-market/commit/b81ffc4f13f0be26d54d2f28d2b76cb88dc8ec51) in [pingu-market](https://github.com/solacite/pingu-market) - Jul 24, 2025
 
