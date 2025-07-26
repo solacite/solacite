@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
+[add images to past log](https://github.com/solacite/piano/commit/906d6f71d97dbb00fbb543995288a077fbcb5b99) in [piano](https://github.com/solacite/piano) - Jul 25, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/1987929e76e2672ac2f76b787ec96ddcb58524cc) in [solacite](https://github.com/solacite/solacite) - Jul 25, 2025
+
 [update readme for profile](https://github.com/solacite/profile/commit/b0adc2d94c3fc6b281e1817645b9ac5c831b04f4) in [profile](https://github.com/solacite/profile) - Jul 25, 2025
-
-[create images folder](https://github.com/solacite/piano/commit/9225fe5a55199fbf43e44f6c21f7b186a94db245) in [piano](https://github.com/solacite/piano) - Jul 25, 2025
-
-[Update README with latest activity](https://github.com/solacite/solacite/commit/f45192ca235fcc7d51c9964f8d8c13cfc8f1db68) in [solacite](https://github.com/solacite/solacite) - Jul 25, 2025
 
 [preload app again](https://github.com/solacite/pingu-market/commit/b81ffc4f13f0be26d54d2f28d2b76cb88dc8ec51) in [pingu-market](https://github.com/solacite/pingu-market) - Jul 24, 2025
 
