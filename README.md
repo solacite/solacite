@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[add images to past log](https://github.com/solacite/piano/commit/906d6f71d97dbb00fbb543995288a077fbcb5b99) in [piano](https://github.com/solacite/piano) - Jul 25, 2025
+[make images slightly bigger, 300px](https://github.com/solacite/piano/commit/63060c496e46acaacb0e2a05101f4c62257bf958) in [piano](https://github.com/solacite/piano) - Jul 26, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/1987929e76e2672ac2f76b787ec96ddcb58524cc) in [solacite](https://github.com/solacite/solacite) - Jul 25, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/7bcce430995e69c52bde36d599314b5cc47fffb7) in [solacite](https://github.com/solacite/solacite) - Jul 26, 2025
 
 [update readme for profile](https://github.com/solacite/profile/commit/b0adc2d94c3fc6b281e1817645b9ac5c831b04f4) in [profile](https://github.com/solacite/profile) - Jul 25, 2025
 
