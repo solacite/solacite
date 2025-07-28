@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[make images slightly bigger, 300px](https://github.com/solacite/piano/commit/63060c496e46acaacb0e2a05101f4c62257bf958) in [piano](https://github.com/solacite/piano) - Jul 26, 2025
+[add hours to july 27 log](https://github.com/solacite/piano/commit/67f6eddf5779771a60d76207d1af9fa9bff1cf8e) in [piano](https://github.com/solacite/piano) - Jul 27, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/7bcce430995e69c52bde36d599314b5cc47fffb7) in [solacite](https://github.com/solacite/solacite) - Jul 26, 2025
+[Initial commit](https://github.com/solacite/live-wallpaper/commit/000fe1be019edc5081c920ca1e2497c7c5694d7e) in [live-wallpaper](https://github.com/solacite/live-wallpaper) - Jul 27, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/5fccb753f398719b16787b582feee7a46ebb1626) in [solacite](https://github.com/solacite/solacite) - Jul 27, 2025
 
 [update readme for profile](https://github.com/solacite/profile/commit/b0adc2d94c3fc6b281e1817645b9ac5c831b04f4) in [profile](https://github.com/solacite/profile) - Jul 25, 2025
 
 [preload app again](https://github.com/solacite/pingu-market/commit/b81ffc4f13f0be26d54d2f28d2b76cb88dc8ec51) in [pingu-market](https://github.com/solacite/pingu-market) - Jul 24, 2025
-
-[fixed fading issue and formatted footer correctly](https://github.com/solacite/blog/commit/83bbcc71926acae08d1af7ff2052e60d2131bbc5) in [blog](https://github.com/solacite/blog) - Jul 21, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
