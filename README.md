@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
+[Update README with latest activity](https://github.com/solacite/solacite/commit/a96dc377f3e7a2a2e7cb0b990b39ea5044e88561) in [solacite](https://github.com/solacite/solacite) - Jul 29, 2025
+
 [center text](https://github.com/solacite/live-wallpaper/commit/17f4ce2ec2e62e8267191a94fbad1a24dd0e734a) in [live-wallpaper](https://github.com/solacite/live-wallpaper) - Jul 28, 2025
 
 [Update README.md](https://github.com/solacite/mouse/commit/0d4c6aaa89b22e7a83f0bf702422712dfa13b411) in [mouse](https://github.com/solacite/mouse) - Jul 28, 2025
-
-[Update README with latest activity](https://github.com/solacite/solacite/commit/fc82258958fae02f7a4fc5a9f783f2043221d10d) in [solacite](https://github.com/solacite/solacite) - Jul 28, 2025
 
 [update readme for profile](https://github.com/solacite/profile/commit/b0adc2d94c3fc6b281e1817645b9ac5c831b04f4) in [profile](https://github.com/solacite/profile) - Jul 25, 2025
 
