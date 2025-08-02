@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[added toon shader (wip) and created new character controller](https://github.com/solacite/verdict/commit/4d9512b92e7106f10549bf9b1e3a9c25356be3be) in [verdict](https://github.com/solacite/verdict) - Jul 31, 2025
+[removed cel shader, will make it manually later - began adding original models](https://github.com/solacite/verdict/commit/0228cda67b02c2fe7c26998902d67e73ffad2c77) in [verdict](https://github.com/solacite/verdict) - Aug 1, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/c571f1ca99b1a01ba5700a576505e7b754d7fbb0) in [solacite](https://github.com/solacite/solacite) - Jul 31, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/3bea13fb1bd8d47f8e619a09d826b8bc8e0c518b) in [solacite](https://github.com/solacite/solacite) - Aug 1, 2025
 
 [center text](https://github.com/solacite/live-wallpaper/commit/17f4ce2ec2e62e8267191a94fbad1a24dd0e734a) in [live-wallpaper](https://github.com/solacite/live-wallpaper) - Jul 28, 2025
 
