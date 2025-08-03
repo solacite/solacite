@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[removed cel shader, will make it manually later - began adding original models](https://github.com/solacite/verdict/commit/0228cda67b02c2fe7c26998902d67e73ffad2c77) in [verdict](https://github.com/solacite/verdict) - Aug 1, 2025
+[change right spacing to wrap box items](https://github.com/solacite/blog/commit/5a847eb90113399f5f30ab30ff4b876e24d15fb7) in [blog](https://github.com/solacite/blog) - Aug 2, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/3bea13fb1bd8d47f8e619a09d826b8bc8e0c518b) in [solacite](https://github.com/solacite/solacite) - Aug 1, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/2c728584008a6bb4eeafed8b84dd6aa231f0d036) in [solacite](https://github.com/solacite/solacite) - Aug 2, 2025
+
+[removed cel shader, will make it manually later - began adding original models](https://github.com/solacite/verdict/commit/0228cda67b02c2fe7c26998902d67e73ffad2c77) in [verdict](https://github.com/solacite/verdict) - Aug 1, 2025
 
 [center text](https://github.com/solacite/live-wallpaper/commit/17f4ce2ec2e62e8267191a94fbad1a24dd0e734a) in [live-wallpaper](https://github.com/solacite/live-wallpaper) - Jul 28, 2025
 
 [Update README.md](https://github.com/solacite/mouse/commit/0d4c6aaa89b22e7a83f0bf702422712dfa13b411) in [mouse](https://github.com/solacite/mouse) - Jul 28, 2025
-
-[update readme for profile](https://github.com/solacite/profile/commit/b0adc2d94c3fc6b281e1817645b9ac5c831b04f4) in [profile](https://github.com/solacite/profile) - Jul 25, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
