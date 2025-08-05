@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Create README.md](https://github.com/solacite/blog/commit/570aca2907f60254767c637abca201c142c51da1) in [blog](https://github.com/solacite/blog) - Aug 3, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/b960d4788d8ca483ad92cbcda952836ef1f6b350) in [solacite](https://github.com/solacite/solacite) - Aug 4, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/935211f17a7e20d85515032477a382360120e2bb) in [solacite](https://github.com/solacite/solacite) - Aug 3, 2025
+[Create README.md](https://github.com/solacite/blog/commit/570aca2907f60254767c637abca201c142c51da1) in [blog](https://github.com/solacite/blog) - Aug 3, 2025
 
 [removed cel shader, will make it manually later - began adding original models](https://github.com/solacite/verdict/commit/0228cda67b02c2fe7c26998902d67e73ffad2c77) in [verdict](https://github.com/solacite/verdict) - Aug 1, 2025
 
