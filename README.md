@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/220003b01be5838f911d654491c7e3abaa946d71) in [solacite](https://github.com/solacite/solacite) - Aug 5, 2025
+[fix character controller, wasd movement supported and can turn perspective using mouse](https://github.com/solacite/verdict/commit/da5974bdf9b8ef9004d1cb579121aded3879cc9c) in [verdict](https://github.com/solacite/verdict) - Aug 6, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/48c3d4a5eb35601c49fdb8a592b68aa44ccdb80b) in [solacite](https://github.com/solacite/solacite) - Aug 6, 2025
 
 [Create README.md](https://github.com/solacite/blog/commit/570aca2907f60254767c637abca201c142c51da1) in [blog](https://github.com/solacite/blog) - Aug 3, 2025
-
-[removed cel shader, will make it manually later - began adding original models](https://github.com/solacite/verdict/commit/0228cda67b02c2fe7c26998902d67e73ffad2c77) in [verdict](https://github.com/solacite/verdict) - Aug 1, 2025
 
 [center text](https://github.com/solacite/live-wallpaper/commit/17f4ce2ec2e62e8267191a94fbad1a24dd0e734a) in [live-wallpaper](https://github.com/solacite/live-wallpaper) - Jul 28, 2025
 
