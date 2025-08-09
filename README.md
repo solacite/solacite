@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[360 degree character view - can turn head](https://github.com/solacite/verdict/commit/149d11d71413633e1a588f0672754fcf49868762) in [verdict](https://github.com/solacite/verdict) - Aug 8, 2025
+[add toon shading](https://github.com/solacite/verdict/commit/eecaf8a0391e630d367c080e81aab5ddd9dd5f55) in [verdict](https://github.com/solacite/verdict) - Aug 8, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/dd0d641bc2923260629c7eb1aa5d1acb8403a16c) in [solacite](https://github.com/solacite/solacite) - Aug 7, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/3168879daaff86fb9a74245558070ad012f14129) in [solacite](https://github.com/solacite/solacite) - Aug 8, 2025
 
 [Create README.md](https://github.com/solacite/blog/commit/570aca2907f60254767c637abca201c142c51da1) in [blog](https://github.com/solacite/blog) - Aug 3, 2025
 
