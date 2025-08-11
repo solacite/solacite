@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[fix sitting label visibility](https://github.com/solacite/verdict/commit/9c3d37eb28ac25604fa38bbecf9bfbf2c4a83c7b) in [verdict](https://github.com/solacite/verdict) - Aug 9, 2025
+[finalize stylistic changes](https://github.com/solacite/verdict/commit/7f09899a985cfb2590cabea2e38eee5c925831c0) in [verdict](https://github.com/solacite/verdict) - Aug 10, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/3ca4cdd01812c5840365a922bbae5d921c7a624d) in [solacite](https://github.com/solacite/solacite) - Aug 9, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/08eb3bf563ff73597ef31885efe90d332e3a5499) in [solacite](https://github.com/solacite/solacite) - Aug 10, 2025
 
 [Create README.md](https://github.com/solacite/blog/commit/570aca2907f60254767c637abca201c142c51da1) in [blog](https://github.com/solacite/blog) - Aug 3, 2025
 
