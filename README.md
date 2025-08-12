@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[finalize stylistic changes](https://github.com/solacite/verdict/commit/7f09899a985cfb2590cabea2e38eee5c925831c0) in [verdict](https://github.com/solacite/verdict) - Aug 10, 2025
+[Update README.md](https://github.com/solacite/verdict/commit/8c48a48138169b5400ecc4a548e25d66f592fae8) in [verdict](https://github.com/solacite/verdict) - Aug 11, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/08eb3bf563ff73597ef31885efe90d332e3a5499) in [solacite](https://github.com/solacite/solacite) - Aug 10, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/f1cf3b8dab05a8ebf94cf5415e0ef3e7b13e1795) in [solacite](https://github.com/solacite/solacite) - Aug 11, 2025
 
 [Create README.md](https://github.com/solacite/blog/commit/570aca2907f60254767c637abca201c142c51da1) in [blog](https://github.com/solacite/blog) - Aug 3, 2025
 
