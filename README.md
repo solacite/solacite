@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README.md](https://github.com/solacite/wayward/commit/cd4d467324d5e32b36d158242d0997ff86b4eeb6) in [wayward](https://github.com/solacite/wayward) - Aug 16, 2025
+[Delete README.md](https://github.com/solacite/out-perform/commit/c95cbb9d40ad52c0ad6e03734942145203bd548f) in [out-perform](https://github.com/solacite/out-perform) - Aug 18, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/4c2ab0a4f978d020ce859ff11c0c29474025678c) in [solacite](https://github.com/solacite/solacite) - Aug 16, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/083c1f3aee900d24bea2a6743636d6b44c994a72) in [solacite](https://github.com/solacite/solacite) - Aug 17, 2025
+
+[Update README.md](https://github.com/solacite/wayward/commit/cd4d467324d5e32b36d158242d0997ff86b4eeb6) in [wayward](https://github.com/solacite/wayward) - Aug 16, 2025
 
 [Update README.md](https://github.com/solacite/verdict/commit/8c48a48138169b5400ecc4a548e25d66f592fae8) in [verdict](https://github.com/solacite/verdict) - Aug 11, 2025
 
 [Create README.md](https://github.com/solacite/blog/commit/570aca2907f60254767c637abca201c142c51da1) in [blog](https://github.com/solacite/blog) - Aug 3, 2025
-
-[center text](https://github.com/solacite/live-wallpaper/commit/17f4ce2ec2e62e8267191a94fbad1a24dd0e734a) in [live-wallpaper](https://github.com/solacite/live-wallpaper) - Jul 28, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
