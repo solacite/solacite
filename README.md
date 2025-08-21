@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[typing animation for dialogue](https://github.com/solacite/out-perform/commit/537d085e40b20bdfb0acfee64f58dafdf5ef37b7) in [out-perform](https://github.com/solacite/out-perform) - Aug 19, 2025
+[add functional tutorial gameplay for orange track](https://github.com/solacite/out-perform/commit/f898dea320bd9db588a3111109be1c7493ea4f61) in [out-perform](https://github.com/solacite/out-perform) - Aug 20, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/9bcc074a928d772b0d34cd86489dd129f86c2435) in [solacite](https://github.com/solacite/solacite) - Aug 19, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/8c70b55df3889801255f677ae16ab5b3629e044c) in [solacite](https://github.com/solacite/solacite) - Aug 20, 2025
 
 [Update README.md](https://github.com/solacite/wayward/commit/cd4d467324d5e32b36d158242d0997ff86b4eeb6) in [wayward](https://github.com/solacite/wayward) - Aug 16, 2025
 
