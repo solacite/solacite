@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[add functional tutorial gameplay for orange track](https://github.com/solacite/out-perform/commit/f898dea320bd9db588a3111109be1c7493ea4f61) in [out-perform](https://github.com/solacite/out-perform) - Aug 20, 2025
+[clean up character body and add comments](https://github.com/solacite/out-perform/commit/6a7b99c94372a1b5d36d4d51ff3229f8f32e2143) in [out-perform](https://github.com/solacite/out-perform) - Aug 21, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/8c70b55df3889801255f677ae16ab5b3629e044c) in [solacite](https://github.com/solacite/solacite) - Aug 20, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/df696165bcc532307091ecc0b7869646df25f2c9) in [solacite](https://github.com/solacite/solacite) - Aug 21, 2025
 
 [Update README.md](https://github.com/solacite/wayward/commit/cd4d467324d5e32b36d158242d0997ff86b4eeb6) in [wayward](https://github.com/solacite/wayward) - Aug 16, 2025
 
