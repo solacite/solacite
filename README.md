@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[clean up character body and add comments](https://github.com/solacite/out-perform/commit/6a7b99c94372a1b5d36d4d51ff3229f8f32e2143) in [out-perform](https://github.com/solacite/out-perform) - Aug 21, 2025
+[Add files via upload](https://github.com/solacite/out-perform/commit/378333e663d52ab0097b1b49574777c8702e762c) in [out-perform](https://github.com/solacite/out-perform) - Aug 22, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/df696165bcc532307091ecc0b7869646df25f2c9) in [solacite](https://github.com/solacite/solacite) - Aug 21, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/bb193dfc18ea484e3b3d2b7c33f668af713b7867) in [solacite](https://github.com/solacite/solacite) - Aug 22, 2025
 
 [Update README.md](https://github.com/solacite/wayward/commit/cd4d467324d5e32b36d158242d0997ff86b4eeb6) in [wayward](https://github.com/solacite/wayward) - Aug 16, 2025
 
