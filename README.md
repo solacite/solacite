@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Add files via upload](https://github.com/solacite/out-perform/commit/378333e663d52ab0097b1b49574777c8702e762c) in [out-perform](https://github.com/solacite/out-perform) - Aug 22, 2025
+[fix more bugs, make lobby music run thru track_menu as well, add dialogue pauses](https://github.com/solacite/out-perform/commit/83fe6b55a49b6c30e4edf9b16bd563eeefe4b12a) in [out-perform](https://github.com/solacite/out-perform) - Aug 23, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/bb193dfc18ea484e3b3d2b7c33f668af713b7867) in [solacite](https://github.com/solacite/solacite) - Aug 22, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ba0d531ebb3e4b3b94cdb7529530985690443e6d) in [solacite](https://github.com/solacite/solacite) - Aug 23, 2025
 
 [Update README.md](https://github.com/solacite/wayward/commit/cd4d467324d5e32b36d158242d0997ff86b4eeb6) in [wayward](https://github.com/solacite/wayward) - Aug 16, 2025
 
