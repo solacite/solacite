@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
+[get wakatime extension, grid texture, set up initial csg boxes](https://github.com/solacite/crimitine/commit/56c88690d040864414520e9d2dc64304df8d06f6) in [crimitine](https://github.com/solacite/crimitine) - Aug 25, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/f0195431eb3dd39ddaa8c2dc2513ad3886deeb20) in [solacite](https://github.com/solacite/solacite) - Aug 25, 2025
+
 [Merge branch 'main' of https://github.com/solacite/oblivescence](https://github.com/solacite/oblivescence/commit/ec15410cd2132d482c621e8065f50ea2f1afc5cd) in [oblivescence](https://github.com/solacite/oblivescence) - Aug 24, 2025
 
 [Merge branch 'main' of https://github.com/solacite/out-perform](https://github.com/solacite/out-perform/commit/87d9f74a386f744af396f37ab760844b95ae35e4) in [out-perform](https://github.com/solacite/out-perform) - Aug 24, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/397e095dd8f3e777f52a3911bf4072a6e767d46d) in [solacite](https://github.com/solacite/solacite) - Aug 24, 2025
-
 [Update README.md](https://github.com/solacite/wayward/commit/cd4d467324d5e32b36d158242d0997ff86b4eeb6) in [wayward](https://github.com/solacite/wayward) - Aug 16, 2025
-
-[Update README.md](https://github.com/solacite/verdict/commit/8c48a48138169b5400ecc4a548e25d66f592fae8) in [verdict](https://github.com/solacite/verdict) - Aug 11, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
