@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[get wakatime extension, grid texture, set up initial csg boxes](https://github.com/solacite/crimitine/commit/56c88690d040864414520e9d2dc64304df8d06f6) in [crimitine](https://github.com/solacite/crimitine) - Aug 25, 2025
+[fix player head movement and start w/ csg box modelling](https://github.com/solacite/crimitine/commit/43970b2b98c27b62ef410681091e2ad0890d7b5c) in [crimitine](https://github.com/solacite/crimitine) - Aug 26, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/f0195431eb3dd39ddaa8c2dc2513ad3886deeb20) in [solacite](https://github.com/solacite/solacite) - Aug 25, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ba60aa386fa54836e22037e35e50e27685034578) in [solacite](https://github.com/solacite/solacite) - Aug 26, 2025
 
 [Merge branch 'main' of https://github.com/solacite/oblivescence](https://github.com/solacite/oblivescence/commit/ec15410cd2132d482c621e8065f50ea2f1afc5cd) in [oblivescence](https://github.com/solacite/oblivescence) - Aug 24, 2025
 
