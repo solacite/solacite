@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/2d03ec627a8e881ae55b6449ca0787fbfe6f6eb1) in [solacite](https://github.com/solacite/solacite) - Aug 27, 2025
+[change gravity and design bmt level](https://github.com/solacite/crimitine/commit/6eef67628832c09b073a1284faa05e1c679524a8) in [crimitine](https://github.com/solacite/crimitine) - Aug 28, 2025
 
-[fix player head movement and start w/ csg box modelling](https://github.com/solacite/crimitine/commit/43970b2b98c27b62ef410681091e2ad0890d7b5c) in [crimitine](https://github.com/solacite/crimitine) - Aug 26, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/c098cd7011e11b427f37e9e77985a04c46ec5ac8) in [solacite](https://github.com/solacite/solacite) - Aug 28, 2025
 
 [Merge branch 'main' of https://github.com/solacite/oblivescence](https://github.com/solacite/oblivescence/commit/ec15410cd2132d482c621e8065f50ea2f1afc5cd) in [oblivescence](https://github.com/solacite/oblivescence) - Aug 24, 2025
 
