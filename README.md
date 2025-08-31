@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/a1d9dabe10a38c2d84e401c22a6c6e6654b7b97b) in [solacite](https://github.com/solacite/solacite) - Aug 29, 2025
+[Merge branch 'main' of https://github.com/solacite/unrising](https://github.com/solacite/crimitine/commit/e6741200fb85452b4034e7e535a6edf1bfcf3410) in [crimitine](https://github.com/solacite/crimitine) - Aug 30, 2025
 
-[change gravity and design bmt level](https://github.com/solacite/crimitine/commit/6eef67628832c09b073a1284faa05e1c679524a8) in [crimitine](https://github.com/solacite/crimitine) - Aug 28, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/8ebb46680b6083b1e903439cb5e9a0d0e3d65402) in [solacite](https://github.com/solacite/solacite) - Aug 30, 2025
 
 [Merge branch 'main' of https://github.com/solacite/oblivescence](https://github.com/solacite/oblivescence/commit/ec15410cd2132d482c621e8065f50ea2f1afc5cd) in [oblivescence](https://github.com/solacite/oblivescence) - Aug 24, 2025
 
