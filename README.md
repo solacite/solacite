@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Merge branch 'main' of https://github.com/solacite/unrising](https://github.com/solacite/crimitine/commit/e6741200fb85452b4034e7e535a6edf1bfcf3410) in [crimitine](https://github.com/solacite/crimitine) - Aug 30, 2025
+[fix narrator + ending](https://github.com/solacite/calamity/commit/972b4b2adf034bfa400c41cac657ea4c2f510788) in [calamity](https://github.com/solacite/calamity) - Aug 31, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/8ebb46680b6083b1e903439cb5e9a0d0e3d65402) in [solacite](https://github.com/solacite/solacite) - Aug 30, 2025
+[Create README.md](https://github.com/solacite/crimitine/commit/41097dbf929b5ac5e0d69523b5a0cb28fa2e856d) in [crimitine](https://github.com/solacite/crimitine) - Aug 31, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/4df98f9f9966e8d0d06e147cfea0fdfbfc87e1df) in [solacite](https://github.com/solacite/solacite) - Aug 31, 2025
 
 [Merge branch 'main' of https://github.com/solacite/oblivescence](https://github.com/solacite/oblivescence/commit/ec15410cd2132d482c621e8065f50ea2f1afc5cd) in [oblivescence](https://github.com/solacite/oblivescence) - Aug 24, 2025
 
 [Merge branch 'main' of https://github.com/solacite/out-perform](https://github.com/solacite/out-perform/commit/87d9f74a386f744af396f37ab760844b95ae35e4) in [out-perform](https://github.com/solacite/out-perform) - Aug 24, 2025
-
-[Update README.md](https://github.com/solacite/wayward/commit/cd4d467324d5e32b36d158242d0997ff86b4eeb6) in [wayward](https://github.com/solacite/wayward) - Aug 16, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
