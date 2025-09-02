@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[fix narrator + ending](https://github.com/solacite/calamity/commit/972b4b2adf034bfa400c41cac657ea4c2f510788) in [calamity](https://github.com/solacite/calamity) - Aug 31, 2025
+[fix squint asset call](https://github.com/solacite/calamity/commit/3c822c92d77de27b42cb8ad619dc426f7a9b1d21) in [calamity](https://github.com/solacite/calamity) - Sep 1, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ac36303bf6c987d5995368bc1f6603f24fe11388) in [solacite](https://github.com/solacite/solacite) - Sep 1, 2025
 
 [Create README.md](https://github.com/solacite/crimitine/commit/41097dbf929b5ac5e0d69523b5a0cb28fa2e856d) in [crimitine](https://github.com/solacite/crimitine) - Aug 31, 2025
-
-[Update README with latest activity](https://github.com/solacite/solacite/commit/4df98f9f9966e8d0d06e147cfea0fdfbfc87e1df) in [solacite](https://github.com/solacite/solacite) - Aug 31, 2025
 
 [Merge branch 'main' of https://github.com/solacite/oblivescence](https://github.com/solacite/oblivescence/commit/ec15410cd2132d482c621e8065f50ea2f1afc5cd) in [oblivescence](https://github.com/solacite/oblivescence) - Aug 24, 2025
 
