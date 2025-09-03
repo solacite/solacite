@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[fix squint asset call](https://github.com/solacite/calamity/commit/3c822c92d77de27b42cb8ad619dc426f7a9b1d21) in [calamity](https://github.com/solacite/calamity) - Sep 1, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/c384fc58f68cd19a4e6cf3644494c981eaacf56e) in [solacite](https://github.com/solacite/solacite) - Sep 2, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/ac36303bf6c987d5995368bc1f6603f24fe11388) in [solacite](https://github.com/solacite/solacite) - Sep 1, 2025
+[re-build project](https://github.com/solacite/calamity/commit/a44daffd92340798d3969cba7434bee931493c39) in [calamity](https://github.com/solacite/calamity) - Sep 1, 2025
 
 [Create README.md](https://github.com/solacite/crimitine/commit/41097dbf929b5ac5e0d69523b5a0cb28fa2e856d) in [crimitine](https://github.com/solacite/crimitine) - Aug 31, 2025
 
