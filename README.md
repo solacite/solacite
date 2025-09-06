@@ -20,7 +20,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/39afbd5cc0560ae5e15382f82376e808ecc8c759) in [solacite](https://github.com/solacite/solacite) - Sep 4, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/1577c82a4a1aba730b5d238d51017757260a524d) in [solacite](https://github.com/solacite/solacite) - Sep 5, 2025
 
 [re-build project](https://github.com/solacite/calamity/commit/a44daffd92340798d3969cba7434bee931493c39) in [calamity](https://github.com/solacite/calamity) - Sep 1, 2025
 
