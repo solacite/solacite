@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/1577c82a4a1aba730b5d238d51017757260a524d) in [solacite](https://github.com/solacite/solacite) - Sep 5, 2025
+[clean filesystem](https://github.com/solacite/oblivescence-v2/commit/2427bc871e8745f1f72167a29989061962f3d471) in [oblivescence-v2](https://github.com/solacite/oblivescence-v2) - Sep 6, 2025
+
+[import sprite files](https://github.com/solacite/packing-up/commit/c4b541a4d96a0a5b98134b529ddd3c8b81824dce) in [packing-up](https://github.com/solacite/packing-up) - Sep 6, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ce37f7c18c069a9812f1655c61ae7fec41f71801) in [solacite](https://github.com/solacite/solacite) - Sep 6, 2025
 
 [re-build project](https://github.com/solacite/calamity/commit/a44daffd92340798d3969cba7434bee931493c39) in [calamity](https://github.com/solacite/calamity) - Sep 1, 2025
 
 [Create README.md](https://github.com/solacite/crimitine/commit/41097dbf929b5ac5e0d69523b5a0cb28fa2e856d) in [crimitine](https://github.com/solacite/crimitine) - Aug 31, 2025
-
-[Merge branch 'main' of https://github.com/solacite/oblivescence](https://github.com/solacite/oblivescence/commit/ec15410cd2132d482c621e8065f50ea2f1afc5cd) in [oblivescence](https://github.com/solacite/oblivescence) - Aug 24, 2025
-
-[Merge branch 'main' of https://github.com/solacite/out-perform](https://github.com/solacite/out-perform/commit/87d9f74a386f744af396f37ab760844b95ae35e4) in [out-perform](https://github.com/solacite/out-perform) - Aug 24, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
