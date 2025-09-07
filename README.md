@@ -8,10 +8,10 @@
 <br></br><br></br>
 
 <!-- repo cards!! -->
-[![pingu-market](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=pingu-market&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-[![blog](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=blog&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-[![profile](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=profile&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-[![leveling system](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=TextBased_LevelingSystem&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
+[![oblivescence v2](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=oblivescence-v2&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
+[![packing up](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=packing-up&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
+[![out-perform](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=out-perform&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
+[![wayward](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=wayward&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
 [![my gitHub stats](https://github-readme-stats.vercel.app/api?username=solacite&theme=slateorange&hide_border=true&bg_color=00000000&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
