@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[clean filesystem](https://github.com/solacite/oblivescence-v2/commit/2427bc871e8745f1f72167a29989061962f3d471) in [oblivescence-v2](https://github.com/solacite/oblivescence-v2) - Sep 6, 2025
+[Delete LICENSE](https://github.com/solacite/packing-up/commit/f543ae4965d5381b8181d9533b3a0cab052e1227) in [packing-up](https://github.com/solacite/packing-up) - Sep 8, 2025
 
-[import sprite files](https://github.com/solacite/packing-up/commit/c4b541a4d96a0a5b98134b529ddd3c8b81824dce) in [packing-up](https://github.com/solacite/packing-up) - Sep 6, 2025
+[Create README.md](https://github.com/solacite/oblivescence-v2/commit/29321fde06915ed197687416e681961a0b2a1643) in [oblivescence-v2](https://github.com/solacite/oblivescence-v2) - Sep 7, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/ce37f7c18c069a9812f1655c61ae7fec41f71801) in [solacite](https://github.com/solacite/solacite) - Sep 6, 2025
+[Update README.md](https://github.com/solacite/solacite/commit/7fd597607cc329169c3e843c59965b4b87ab1d03) in [solacite](https://github.com/solacite/solacite) - Sep 7, 2025
 
 [re-build project](https://github.com/solacite/calamity/commit/a44daffd92340798d3969cba7434bee931493c39) in [calamity](https://github.com/solacite/calamity) - Sep 1, 2025
 
