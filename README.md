@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Delete LICENSE](https://github.com/solacite/packing-up/commit/f543ae4965d5381b8181d9533b3a0cab052e1227) in [packing-up](https://github.com/solacite/packing-up) - Sep 8, 2025
+[Merge branch 'main' of https://github.com/solacite/packing-up](https://github.com/solacite/packing-up/commit/d1723aa1a3c73ae0a6d5b1117b66a032172c2762) in [packing-up](https://github.com/solacite/packing-up) - Sep 8, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/aa669238c1bb7171e34449b94830adfbf51603d3) in [solacite](https://github.com/solacite/solacite) - Sep 8, 2025
 
 [Create README.md](https://github.com/solacite/oblivescence-v2/commit/29321fde06915ed197687416e681961a0b2a1643) in [oblivescence-v2](https://github.com/solacite/oblivescence-v2) - Sep 7, 2025
-
-[Update README.md](https://github.com/solacite/solacite/commit/7fd597607cc329169c3e843c59965b4b87ab1d03) in [solacite](https://github.com/solacite/solacite) - Sep 7, 2025
 
 [re-build project](https://github.com/solacite/calamity/commit/a44daffd92340798d3969cba7434bee931493c39) in [calamity](https://github.com/solacite/calamity) - Sep 1, 2025
 
