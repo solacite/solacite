@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Merge branch 'main' of https://github.com/solacite/packing-up](https://github.com/solacite/packing-up/commit/d1723aa1a3c73ae0a6d5b1117b66a032172c2762) in [packing-up](https://github.com/solacite/packing-up) - Sep 8, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/7ebd74b3427824d03e7a7877574bbb04b77dfea1) in [solacite](https://github.com/solacite/solacite) - Sep 9, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/aa669238c1bb7171e34449b94830adfbf51603d3) in [solacite](https://github.com/solacite/solacite) - Sep 8, 2025
+[Merge branch 'main' of https://github.com/solacite/packing-up](https://github.com/solacite/packing-up/commit/d1723aa1a3c73ae0a6d5b1117b66a032172c2762) in [packing-up](https://github.com/solacite/packing-up) - Sep 8, 2025
 
 [Create README.md](https://github.com/solacite/oblivescence-v2/commit/29321fde06915ed197687416e681961a0b2a1643) in [oblivescence-v2](https://github.com/solacite/oblivescence-v2) - Sep 7, 2025
 
