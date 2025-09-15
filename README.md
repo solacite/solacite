@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/7874dae7fac80065fb7d8886a11fe2f7276111d9) in [solacite](https://github.com/solacite/solacite) - Sep 13, 2025
+[Delete LICENSE](https://github.com/solacite/red-lines/commit/991798188e3789ccebfd6e77fe2988661bac65f8) in [red-lines](https://github.com/solacite/red-lines) - Sep 14, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/2945df2e77f439b2d400123d12f66a7f1dd1c2a0) in [solacite](https://github.com/solacite/solacite) - Sep 14, 2025
 
 [Update README.md](https://github.com/solacite/packing-up/commit/227df031c06fa7de0fefba2bee7e9d560a3e39ff) in [packing-up](https://github.com/solacite/packing-up) - Sep 11, 2025
 
 [Create README.md](https://github.com/solacite/oblivescence-v2/commit/29321fde06915ed197687416e681961a0b2a1643) in [oblivescence-v2](https://github.com/solacite/oblivescence-v2) - Sep 7, 2025
 
 [re-build project](https://github.com/solacite/calamity/commit/a44daffd92340798d3969cba7434bee931493c39) in [calamity](https://github.com/solacite/calamity) - Sep 1, 2025
-
-[Create README.md](https://github.com/solacite/crimitine/commit/41097dbf929b5ac5e0d69523b5a0cb28fa2e856d) in [crimitine](https://github.com/solacite/crimitine) - Aug 31, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
