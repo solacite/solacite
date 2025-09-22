@@ -20,7 +20,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/0f4e85e88e0c7ff5f3b1eefc0de96e44366e9154) in [solacite](https://github.com/solacite/solacite) - Sep 20, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/7f0f6a460ac7f00bf169b429c7ca6c19bcba2d90) in [solacite](https://github.com/solacite/solacite) - Sep 21, 2025
 
 [Delete LICENSE](https://github.com/solacite/red-lines/commit/991798188e3789ccebfd6e77fe2988661bac65f8) in [red-lines](https://github.com/solacite/red-lines) - Sep 14, 2025
 
