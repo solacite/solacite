@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/7f0f6a460ac7f00bf169b429c7ca6c19bcba2d90) in [solacite](https://github.com/solacite/solacite) - Sep 21, 2025
+[setup initial html + css files](https://github.com/solacite/all-or-nothing/commit/ab10e3e6d6c77b966e8318c98d85a799f39f99d2) in [all-or-nothing](https://github.com/solacite/all-or-nothing) - Sep 23, 2025
 
-[Delete LICENSE](https://github.com/solacite/red-lines/commit/991798188e3789ccebfd6e77fe2988661bac65f8) in [red-lines](https://github.com/solacite/red-lines) - Sep 14, 2025
+[fix camera, add web export, add subway car w/ new textures](https://github.com/solacite/red-lines/commit/372564a0072661acee1a0a738367a555d5a0b4b0) in [red-lines](https://github.com/solacite/red-lines) - Sep 22, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/40b2f9dbf6b5a2e4c82b3db498795d97ebf05244) in [solacite](https://github.com/solacite/solacite) - Sep 22, 2025
 
 [Update README.md](https://github.com/solacite/packing-up/commit/227df031c06fa7de0fefba2bee7e9d560a3e39ff) in [packing-up](https://github.com/solacite/packing-up) - Sep 11, 2025
 
 [Create README.md](https://github.com/solacite/oblivescence-v2/commit/29321fde06915ed197687416e681961a0b2a1643) in [oblivescence-v2](https://github.com/solacite/oblivescence-v2) - Sep 7, 2025
-
-[re-build project](https://github.com/solacite/calamity/commit/a44daffd92340798d3969cba7434bee931493c39) in [calamity](https://github.com/solacite/calamity) - Sep 1, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
