@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[setup initial html + css files](https://github.com/solacite/all-or-nothing/commit/ab10e3e6d6c77b966e8318c98d85a799f39f99d2) in [all-or-nothing](https://github.com/solacite/all-or-nothing) - Sep 23, 2025
+[add navbar + styling](https://github.com/solacite/all-or-nothing/commit/cbe592e7a3e693e9f32982ad508da3e928c32faf) in [all-or-nothing](https://github.com/solacite/all-or-nothing) - Sep 23, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/2d8c726b6766456f23d5e1b5ad90b9ab820510ca) in [solacite](https://github.com/solacite/solacite) - Sep 23, 2025
 
 [fix camera, add web export, add subway car w/ new textures](https://github.com/solacite/red-lines/commit/372564a0072661acee1a0a738367a555d5a0b4b0) in [red-lines](https://github.com/solacite/red-lines) - Sep 22, 2025
-
-[Update README with latest activity](https://github.com/solacite/solacite/commit/40b2f9dbf6b5a2e4c82b3db498795d97ebf05244) in [solacite](https://github.com/solacite/solacite) - Sep 22, 2025
 
 [Update README.md](https://github.com/solacite/packing-up/commit/227df031c06fa7de0fefba2bee7e9d560a3e39ff) in [packing-up](https://github.com/solacite/packing-up) - Sep 11, 2025
 
