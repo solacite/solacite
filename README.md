@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[add navbar + styling](https://github.com/solacite/all-or-nothing/commit/cbe592e7a3e693e9f32982ad508da3e928c32faf) in [all-or-nothing](https://github.com/solacite/all-or-nothing) - Sep 23, 2025
+[change color theme](https://github.com/solacite/fo-koos/commit/a0909c3930a819ca39034e98cf8ce1b33edde387) in [fo-koos](https://github.com/solacite/fo-koos) - Sep 24, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/2d8c726b6766456f23d5e1b5ad90b9ab820510ca) in [solacite](https://github.com/solacite/solacite) - Sep 23, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ad2d1bf2cc5d62e01bc7dc05d4edfc86cd4db629) in [solacite](https://github.com/solacite/solacite) - Sep 24, 2025
 
 [fix camera, add web export, add subway car w/ new textures](https://github.com/solacite/red-lines/commit/372564a0072661acee1a0a738367a555d5a0b4b0) in [red-lines](https://github.com/solacite/red-lines) - Sep 22, 2025
 
