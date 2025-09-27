@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[add gradient anim bg](https://github.com/solacite/fo-koos/commit/88d0e715f82068b2c857310fb37f55bed93f4916) in [fo-koos](https://github.com/solacite/fo-koos) - Sep 25, 2025
+[add format load fallbacks + new html pages](https://github.com/solacite/fo-koos/commit/ef48ed56e3428612df2785f605d3f00b8fc00375) in [fo-koos](https://github.com/solacite/fo-koos) - Sep 26, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/0d6beb25196ae0550ee4090285c996e2910bf1aa) in [solacite](https://github.com/solacite/solacite) - Sep 25, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/69dd81d6507209263690a55adcd8e78a451429d3) in [solacite](https://github.com/solacite/solacite) - Sep 26, 2025
 
 [fix camera, add web export, add subway car w/ new textures](https://github.com/solacite/red-lines/commit/372564a0072661acee1a0a738367a555d5a0b4b0) in [red-lines](https://github.com/solacite/red-lines) - Sep 22, 2025
 
