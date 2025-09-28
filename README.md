@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[add format load fallbacks + new html pages](https://github.com/solacite/fo-koos/commit/ef48ed56e3428612df2785f605d3f00b8fc00375) in [fo-koos](https://github.com/solacite/fo-koos) - Sep 26, 2025
+[add final dialogue](https://github.com/solacite/daydream/commit/a160417e0844ec9050703fc79b1cbf26f9dfb448) in [daydream](https://github.com/solacite/daydream) - Sep 27, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/69dd81d6507209263690a55adcd8e78a451429d3) in [solacite](https://github.com/solacite/solacite) - Sep 26, 2025
+[add randomised quotes](https://github.com/solacite/fo-koos/commit/cecc810799992178a4e5c2be2eca1473de9a0e93) in [fo-koos](https://github.com/solacite/fo-koos) - Sep 27, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/d375ce196a2df2d31eb2319d853686913ae6096a) in [solacite](https://github.com/solacite/solacite) - Sep 27, 2025
 
 [fix camera, add web export, add subway car w/ new textures](https://github.com/solacite/red-lines/commit/372564a0072661acee1a0a738367a555d5a0b4b0) in [red-lines](https://github.com/solacite/red-lines) - Sep 22, 2025
 
 [Update README.md](https://github.com/solacite/packing-up/commit/227df031c06fa7de0fefba2bee7e9d560a3e39ff) in [packing-up](https://github.com/solacite/packing-up) - Sep 11, 2025
-
-[Create README.md](https://github.com/solacite/oblivescence-v2/commit/29321fde06915ed197687416e681961a0b2a1643) in [oblivescence-v2](https://github.com/solacite/oblivescence-v2) - Sep 7, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
