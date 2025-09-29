@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[add final dialogue](https://github.com/solacite/daydream/commit/a160417e0844ec9050703fc79b1cbf26f9dfb448) in [daydream](https://github.com/solacite/daydream) - Sep 27, 2025
+[Create README.md](https://github.com/solacite/daydream/commit/31338c94892d88a7f4a5cd0635f46b673d55db55) in [daydream](https://github.com/solacite/daydream) - Sep 28, 2025
 
-[add randomised quotes](https://github.com/solacite/fo-koos/commit/cecc810799992178a4e5c2be2eca1473de9a0e93) in [fo-koos](https://github.com/solacite/fo-koos) - Sep 27, 2025
+[fix tenses in quote](https://github.com/solacite/fo-koos/commit/97c48a1723e579c495aceb50df2ab9a09e77e84d) in [fo-koos](https://github.com/solacite/fo-koos) - Sep 28, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/d375ce196a2df2d31eb2319d853686913ae6096a) in [solacite](https://github.com/solacite/solacite) - Sep 27, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/c90bf46e4c4ed7fb786f8e67da36c66950ad476d) in [solacite](https://github.com/solacite/solacite) - Sep 28, 2025
 
 [fix camera, add web export, add subway car w/ new textures](https://github.com/solacite/red-lines/commit/372564a0072661acee1a0a738367a555d5a0b4b0) in [red-lines](https://github.com/solacite/red-lines) - Sep 22, 2025
 
