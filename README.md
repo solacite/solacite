@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[add rankings, stats, styling](https://github.com/solacite/fo-koos/commit/458c2337c671556f86b4cfc3bbcac025c07faa30) in [fo-koos](https://github.com/solacite/fo-koos) - Oct 1, 2025
+[import buff shiba](https://github.com/solacite/tabletap/commit/0b5e8bd40d5075188c0c33707cd35ee4c401eaf6) in [tabletap](https://github.com/solacite/tabletap) - Oct 2, 2025
+
+[save preferred theme](https://github.com/solacite/fo-koos/commit/2e3e1dd39793e58d58f0641f803a8e1d0936446e) in [fo-koos](https://github.com/solacite/fo-koos) - Oct 2, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/892791c4a21c8e61f0f7461daf3598eb355d0f4d) in [solacite](https://github.com/solacite/solacite) - Oct 2, 2025
 
 [change aesthetics](https://github.com/solacite/once-upon-aao/commit/d341433ca9a9b291f54371739d6946e7c3446c1c) in [once-upon-aao](https://github.com/solacite/once-upon-aao) - Oct 1, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/16cdd27407aa543ce768a88c7fbaa01314b7daa2) in [solacite](https://github.com/solacite/solacite) - Oct 1, 2025
-
 [Create README.md](https://github.com/solacite/daydream/commit/31338c94892d88a7f4a5cd0635f46b673d55db55) in [daydream](https://github.com/solacite/daydream) - Sep 28, 2025
-
-[fix camera, add web export, add subway car w/ new textures](https://github.com/solacite/red-lines/commit/372564a0072661acee1a0a738367a555d5a0b4b0) in [red-lines](https://github.com/solacite/red-lines) - Sep 22, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
