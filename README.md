@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[import buff shiba](https://github.com/solacite/tabletap/commit/0b5e8bd40d5075188c0c33707cd35ee4c401eaf6) in [tabletap](https://github.com/solacite/tabletap) - Oct 2, 2025
+[upload planks](https://github.com/solacite/tabletap/commit/45fa17eefeb1566797df3b1968de85aee459753f) in [tabletap](https://github.com/solacite/tabletap) - Oct 3, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/df3e743013069e33bb3a7bd639ea946a581b0959) in [solacite](https://github.com/solacite/solacite) - Oct 3, 2025
 
 [save preferred theme](https://github.com/solacite/fo-koos/commit/2e3e1dd39793e58d58f0641f803a8e1d0936446e) in [fo-koos](https://github.com/solacite/fo-koos) - Oct 2, 2025
-
-[Update README with latest activity](https://github.com/solacite/solacite/commit/892791c4a21c8e61f0f7461daf3598eb355d0f4d) in [solacite](https://github.com/solacite/solacite) - Oct 2, 2025
 
 [change aesthetics](https://github.com/solacite/once-upon-aao/commit/d341433ca9a9b291f54371739d6946e7c3446c1c) in [once-upon-aao](https://github.com/solacite/once-upon-aao) - Oct 1, 2025
 
