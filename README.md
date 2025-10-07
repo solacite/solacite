@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
+[Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/64e1cdb0bf1cdbfd0f2510051de61fcbd933c433) in [solacite](https://github.com/solacite/solacite) - Oct 6, 2025
+
 [Update README with game description and insights](https://github.com/solacite/red-lines/commit/e0809f880ee68050b7fd1d6d93d55042decd75c8) in [red-lines](https://github.com/solacite/red-lines) - Oct 5, 2025
-
-[Update README with latest activity](https://github.com/solacite/solacite/commit/11743bf6427566857c588dc3c3bae578bbbe06de) in [solacite](https://github.com/solacite/solacite) - Oct 5, 2025
-
-[upload coin model](https://github.com/solacite/model-museum/commit/3bbbd952259a534cd7be9ccbbec0e9eb55e0d50a) in [model-museum](https://github.com/solacite/model-museum) - Oct 5, 2025
 
 [upload pond + sky art](https://github.com/solacite/tabletap/commit/c66eb667175d5ad9c9e2a53d20a565eb5d5abc72) in [tabletap](https://github.com/solacite/tabletap) - Oct 4, 2025
 
