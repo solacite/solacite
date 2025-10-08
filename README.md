@@ -20,13 +20,13 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
+[finish main menu btns (imported all imgs + made them into functional btns)](https://github.com/solacite/tabletap/commit/d479b0a6060e0467935f6a8d3459f5709db304a4) in [tabletap](https://github.com/solacite/tabletap) - Oct 7, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/c12f8c11c2713249dd7f43c1c240729b557d9ed9) in [solacite](https://github.com/solacite/solacite) - Oct 7, 2025
+
 [Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/64e1cdb0bf1cdbfd0f2510051de61fcbd933c433) in [solacite](https://github.com/solacite/solacite) - Oct 6, 2025
-
 [Update README with game description and insights](https://github.com/solacite/red-lines/commit/e0809f880ee68050b7fd1d6d93d55042decd75c8) in [red-lines](https://github.com/solacite/red-lines) - Oct 5, 2025
-
-[upload pond + sky art](https://github.com/solacite/tabletap/commit/c66eb667175d5ad9c9e2a53d20a565eb5d5abc72) in [tabletap](https://github.com/solacite/tabletap) - Oct 4, 2025
 
 [save preferred theme](https://github.com/solacite/fo-koos/commit/2e3e1dd39793e58d58f0641f803a8e1d0936446e) in [fo-koos](https://github.com/solacite/fo-koos) - Oct 2, 2025
 
