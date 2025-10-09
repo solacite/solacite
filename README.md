@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[finish main menu btns (imported all imgs + made them into functional btns)](https://github.com/solacite/tabletap/commit/d479b0a6060e0467935f6a8d3459f5709db304a4) in [tabletap](https://github.com/solacite/tabletap) - Oct 7, 2025
+[brighten environment](https://github.com/solacite/tabletap/commit/c8b77eba3ac36638ffb653f1774753d8e54c76f7) in [tabletap](https://github.com/solacite/tabletap) - Oct 8, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/c12f8c11c2713249dd7f43c1c240729b557d9ed9) in [solacite](https://github.com/solacite/solacite) - Oct 7, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/0a396ee01964305246af557df21b0f2a5573f5ba) in [solacite](https://github.com/solacite/solacite) - Oct 8, 2025
 
 [Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
 
