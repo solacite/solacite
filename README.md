@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[brighten environment](https://github.com/solacite/tabletap/commit/c8b77eba3ac36638ffb653f1774753d8e54c76f7) in [tabletap](https://github.com/solacite/tabletap) - Oct 8, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/6616f3116e709ffc2b24244a108696fcbc1a249a) in [solacite](https://github.com/solacite/solacite) - Oct 9, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/0a396ee01964305246af557df21b0f2a5573f5ba) in [solacite](https://github.com/solacite/solacite) - Oct 8, 2025
+[brighten environment](https://github.com/solacite/tabletap/commit/c8b77eba3ac36638ffb653f1774753d8e54c76f7) in [tabletap](https://github.com/solacite/tabletap) - Oct 8, 2025
 
 [Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
 
