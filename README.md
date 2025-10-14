@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[I FIXED THE GLITCHY STICKY WALL ISSUE FIXY HOORAY](https://github.com/solacite/tabletap/commit/4317b8354412486e407549348374ac1778ef30bc) in [tabletap](https://github.com/solacite/tabletap) - Oct 13, 2025
+[make title more readable](https://github.com/solacite/tabletap/commit/2a4293c2ad00f10c5f706683d9a9ea3e12647211) in [tabletap](https://github.com/solacite/tabletap) - Oct 13, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/7464637530534b51318516e6d019e07fb019609b) in [solacite](https://github.com/solacite/solacite) - Oct 12, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/539722d000005bee2d5734e61020c46d10b0cd1e) in [solacite](https://github.com/solacite/solacite) - Oct 13, 2025
 
 [Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
 
