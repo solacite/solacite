@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[make title more readable](https://github.com/solacite/tabletap/commit/2a4293c2ad00f10c5f706683d9a9ea3e12647211) in [tabletap](https://github.com/solacite/tabletap) - Oct 13, 2025
+[create tilemap](https://github.com/solacite/tabletap/commit/930b76d41d91661b54267d9740951ee03ed8fd21) in [tabletap](https://github.com/solacite/tabletap) - Oct 15, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/539722d000005bee2d5734e61020c46d10b0cd1e) in [solacite](https://github.com/solacite/solacite) - Oct 13, 2025
+[add edit/delete task functionality](https://github.com/solacite/a-letter-to-the-ether/commit/4732bf05cf10aa22f0f5eeeeb068275b8e37e683) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 14, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/420a5435217d72ea62753f5262cabddfc7b0dc1c) in [solacite](https://github.com/solacite/solacite) - Oct 14, 2025
 
 [Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
 
 [Update README with game description and insights](https://github.com/solacite/red-lines/commit/e0809f880ee68050b7fd1d6d93d55042decd75c8) in [red-lines](https://github.com/solacite/red-lines) - Oct 5, 2025
-
-[save preferred theme](https://github.com/solacite/fo-koos/commit/2e3e1dd39793e58d58f0641f803a8e1d0936446e) in [fo-koos](https://github.com/solacite/fo-koos) - Oct 2, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
