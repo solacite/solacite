@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[create tilemap](https://github.com/solacite/tabletap/commit/930b76d41d91661b54267d9740951ee03ed8fd21) in [tabletap](https://github.com/solacite/tabletap) - Oct 15, 2025
+[work on player platformer script](https://github.com/solacite/tabletap/commit/ba12186d58cdc90c76bc91f195cf0ba9ec586863) in [tabletap](https://github.com/solacite/tabletap) - Oct 15, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/7dd37f1750757b01348cb47f372637baa660cfcb) in [solacite](https://github.com/solacite/solacite) - Oct 15, 2025
 
 [add edit/delete task functionality](https://github.com/solacite/a-letter-to-the-ether/commit/4732bf05cf10aa22f0f5eeeeb068275b8e37e683) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 14, 2025
-
-[Update README with latest activity](https://github.com/solacite/solacite/commit/420a5435217d72ea62753f5262cabddfc7b0dc1c) in [solacite](https://github.com/solacite/solacite) - Oct 14, 2025
 
 [Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
 
