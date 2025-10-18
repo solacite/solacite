@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[fix respawn collisions](https://github.com/solacite/tabletap/commit/e7736eda48668073f297cd1803fee4743b48cefc) in [tabletap](https://github.com/solacite/tabletap) - Oct 16, 2025
+[finish second stair collision](https://github.com/solacite/tabletap/commit/4c157f77710d4f1196b89341eec949002f29003b) in [tabletap](https://github.com/solacite/tabletap) - Oct 17, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/91f658b6a674295b9afeb91afe83ab77eb05a318) in [solacite](https://github.com/solacite/solacite) - Oct 16, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/213b89262bd4b20b90b9525376d99005014174d6) in [solacite](https://github.com/solacite/solacite) - Oct 17, 2025
 
 [add edit/delete task functionality](https://github.com/solacite/a-letter-to-the-ether/commit/4732bf05cf10aa22f0f5eeeeb068275b8e37e683) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 14, 2025
 
