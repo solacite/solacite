@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[adjust jun walkspeed](https://github.com/solacite/tabletap/commit/503cb7b79060238455f35f3ceb1fcc8a097abea1) in [tabletap](https://github.com/solacite/tabletap) - Oct 19, 2025
+[setup the fading text functionality w/ overlay](https://github.com/solacite/a-letter-to-the-ether/commit/9071536c25446b7f0ee43f23f8399f3cb14395cc) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 20, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/85cd7350bd8ea05fd9994896051a96ebc2fda518) in [solacite](https://github.com/solacite/solacite) - Oct 18, 2025
+[make new demo](https://github.com/solacite/tabletap/commit/33c253bc543386fbf5437da6e452a94ecee7207d) in [tabletap](https://github.com/solacite/tabletap) - Oct 19, 2025
 
-[add edit/delete task functionality](https://github.com/solacite/a-letter-to-the-ether/commit/4732bf05cf10aa22f0f5eeeeb068275b8e37e683) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 14, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/98b6579b9ceb390a4c15078aadbfeb6d7bab6e44) in [solacite](https://github.com/solacite/solacite) - Oct 19, 2025
 
 [Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
 
