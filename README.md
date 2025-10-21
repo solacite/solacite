@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[setup the fading text functionality w/ overlay](https://github.com/solacite/a-letter-to-the-ether/commit/9071536c25446b7f0ee43f23f8399f3cb14395cc) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 20, 2025
+[fix flash ;;](https://github.com/solacite/tapatune/commit/3a77c3498f8a20b621cd9a4ac0cb239c5ec5ee8d) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
 
-[make new demo](https://github.com/solacite/tabletap/commit/33c253bc543386fbf5437da6e452a94ecee7207d) in [tabletap](https://github.com/solacite/tabletap) - Oct 19, 2025
+[fix loading screen upon respawn](https://github.com/solacite/tabletap/commit/39f8291ca0477a0083f016100d82b429034a54da) in [tabletap](https://github.com/solacite/tabletap) - Oct 20, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/98b6579b9ceb390a4c15078aadbfeb6d7bab6e44) in [solacite](https://github.com/solacite/solacite) - Oct 19, 2025
+[update gitignore](https://github.com/solacite/a-letter-to-the-ether/commit/c999a6b0ad8c6dc6f3466ae814ab47b0e6f723c5) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 20, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ff9b2a28bd2c9ba17ef983e92dfc855c9dea1380) in [solacite](https://github.com/solacite/solacite) - Oct 20, 2025
 
 [Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
-
-[Update README with game description and insights](https://github.com/solacite/red-lines/commit/e0809f880ee68050b7fd1d6d93d55042decd75c8) in [red-lines](https://github.com/solacite/red-lines) - Oct 5, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
