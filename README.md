@@ -20,11 +20,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
+[platformer progress and figuring out screen overlay shaders](https://github.com/solacite/tabletap/commit/78d86591873da19f002b9df8b3c22fc7d23486c7) in [tabletap](https://github.com/solacite/tabletap) - Oct 22, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/d298acc4ac5fb3b53dfc835c7519b5efe1a0bbde) in [solacite](https://github.com/solacite/solacite) - Oct 22, 2025
+
 [build](https://github.com/solacite/tapatune/commit/8bd5138b038f30eef2bb02d2cba59a6a0cad222c) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
-
-[Update README with latest activity](https://github.com/solacite/solacite/commit/220470580be213f488fb8259347790e536e2bb39) in [solacite](https://github.com/solacite/solacite) - Oct 21, 2025
-
-[fix loading screen upon respawn](https://github.com/solacite/tabletap/commit/39f8291ca0477a0083f016100d82b429034a54da) in [tabletap](https://github.com/solacite/tabletap) - Oct 20, 2025
 
 [update gitignore](https://github.com/solacite/a-letter-to-the-ether/commit/c999a6b0ad8c6dc6f3466ae814ab47b0e6f723c5) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 20, 2025
 
