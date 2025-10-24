@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[platformer progress and figuring out screen overlay shaders](https://github.com/solacite/tabletap/commit/78d86591873da19f002b9df8b3c22fc7d23486c7) in [tabletap](https://github.com/solacite/tabletap) - Oct 22, 2025
+[significant progress on platformer!](https://github.com/solacite/tabletap/commit/e944c96928b4b3ff33f2be8ebe3524f3fdaf4212) in [tabletap](https://github.com/solacite/tabletap) - Oct 24, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/d298acc4ac5fb3b53dfc835c7519b5efe1a0bbde) in [solacite](https://github.com/solacite/solacite) - Oct 22, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/56936153f8237bbabfc0dcf57ecc15206bc67345) in [solacite](https://github.com/solacite/solacite) - Oct 23, 2025
 
 [build](https://github.com/solacite/tapatune/commit/8bd5138b038f30eef2bb02d2cba59a6a0cad222c) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
 
