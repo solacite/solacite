@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[attempt to make custom cursor but realized there won't be a mouse ;;](https://github.com/solacite/tabletap/commit/9ae49e06acb2b6c9dde4a079478bd8bd9f6d7c5f) in [tabletap](https://github.com/solacite/tabletap) - Oct 24, 2025
+[import new font + upload game menu](https://github.com/solacite/tabletap/commit/02c6451a301b3efe4cd2618154e262651a19df97) in [tabletap](https://github.com/solacite/tabletap) - Oct 25, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/d8e1ec28f3c14f0c6c13e034cb22f1946fa4f35d) in [solacite](https://github.com/solacite/solacite) - Oct 24, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/1eb52164c58bd817c121a8e20b53b1f4ba4d8cb3) in [solacite](https://github.com/solacite/solacite) - Oct 25, 2025
 
 [build](https://github.com/solacite/tapatune/commit/8bd5138b038f30eef2bb02d2cba59a6a0cad222c) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
 
