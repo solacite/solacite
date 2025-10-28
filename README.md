@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[more btn functionality + change editor theme !!](https://github.com/solacite/tabletap/commit/15f31ac8745392678bc58b1aa49a1b64d3f1b927) in [tabletap](https://github.com/solacite/tabletap) - Oct 26, 2025
+[platformer mini tower progress](https://github.com/solacite/tabletap/commit/cfee6faeb1a19b65084de27498d27edd2534b714) in [tabletap](https://github.com/solacite/tabletap) - Oct 27, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/ac21634e4fc99b61c2c8a730f17c50d4458ab52c) in [solacite](https://github.com/solacite/solacite) - Oct 26, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/dcf8c847e64fa75f259b154551cfeb641a9e8b88) in [solacite](https://github.com/solacite/solacite) - Oct 27, 2025
 
 [build](https://github.com/solacite/tapatune/commit/8bd5138b038f30eef2bb02d2cba59a6a0cad222c) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
 
