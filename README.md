@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[platformer mini tower progress](https://github.com/solacite/tabletap/commit/cfee6faeb1a19b65084de27498d27edd2534b714) in [tabletap](https://github.com/solacite/tabletap) - Oct 27, 2025
+[finish weird top guess level](https://github.com/solacite/tabletap/commit/b9ed3bf305011cebcb801045ed0dd2dcf9d82b9d) in [tabletap](https://github.com/solacite/tabletap) - Oct 28, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/dcf8c847e64fa75f259b154551cfeb641a9e8b88) in [solacite](https://github.com/solacite/solacite) - Oct 27, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/72fc773ce6eaec99d5129cb09f18f522ee66e41a) in [solacite](https://github.com/solacite/solacite) - Oct 28, 2025
 
 [build](https://github.com/solacite/tapatune/commit/8bd5138b038f30eef2bb02d2cba59a6a0cad222c) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
 
