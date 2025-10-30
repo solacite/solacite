@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[finish weird top guess level](https://github.com/solacite/tabletap/commit/b9ed3bf305011cebcb801045ed0dd2dcf9d82b9d) in [tabletap](https://github.com/solacite/tabletap) - Oct 28, 2025
+[make demo + start stack lvl](https://github.com/solacite/tabletap/commit/4131044b0ef06c911cb9c5bb0799fdebe87b5e8c) in [tabletap](https://github.com/solacite/tabletap) - Oct 30, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/72fc773ce6eaec99d5129cb09f18f522ee66e41a) in [solacite](https://github.com/solacite/solacite) - Oct 28, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/e345a5c5d25f0f0864f2efc6e11e500d739072f1) in [solacite](https://github.com/solacite/solacite) - Oct 29, 2025
 
 [build](https://github.com/solacite/tapatune/commit/8bd5138b038f30eef2bb02d2cba59a6a0cad222c) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
 
