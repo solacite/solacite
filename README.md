@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[start twist level](https://github.com/solacite/tabletap/commit/f1f1f23bc1c307486ac6cee71d7a00580b1971e9) in [tabletap](https://github.com/solacite/tabletap) - Oct 31, 2025
+[lvl 31 platformer](https://github.com/solacite/tabletap/commit/dce5ded2e1c23582e73cfaa2059a24622ff7c2eb) in [tabletap](https://github.com/solacite/tabletap) - Oct 31, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/93a82bbca28d9ec2d7b82343e69982ae80acf17f) in [solacite](https://github.com/solacite/solacite) - Oct 30, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/2bea491a02845bf6e445c21a520d496d9be9b038) in [solacite](https://github.com/solacite/solacite) - Oct 31, 2025
 
 [build](https://github.com/solacite/tapatune/commit/8bd5138b038f30eef2bb02d2cba59a6a0cad222c) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
 
