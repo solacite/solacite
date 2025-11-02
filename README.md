@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[lvl 31 platformer](https://github.com/solacite/tabletap/commit/dce5ded2e1c23582e73cfaa2059a24622ff7c2eb) in [tabletap](https://github.com/solacite/tabletap) - Oct 31, 2025
+[platformer progress ; finished carets (did I say that yet)](https://github.com/solacite/tabletap/commit/3005869422f2f90e5c235d9048c6e416e4de111d) in [tabletap](https://github.com/solacite/tabletap) - Nov 2, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/2bea491a02845bf6e445c21a520d496d9be9b038) in [solacite](https://github.com/solacite/solacite) - Oct 31, 2025
+[Initialize README with project details and badge](https://github.com/solacite/meant-to-be-messy/commit/67f84e5ae4191557300321a25980ea91d9897e5b) in [meant-to-be-messy](https://github.com/solacite/meant-to-be-messy) - Nov 1, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/a51a34bda137c551f76378b1e812dd38c43783e8) in [solacite](https://github.com/solacite/solacite) - Nov 1, 2025
 
 [build](https://github.com/solacite/tapatune/commit/8bd5138b038f30eef2bb02d2cba59a6a0cad222c) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
 
 [update gitignore](https://github.com/solacite/a-letter-to-the-ether/commit/c999a6b0ad8c6dc6f3466ae814ab47b0e6f723c5) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 20, 2025
-
-[Add project description to README.md](https://github.com/solacite/model-museum/commit/4cc14427d39cdfcce2cccf2a1c468d88c9cd2fe0) in [model-museum](https://github.com/solacite/model-museum) - Oct 6, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
