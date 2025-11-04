@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[add squares lvl](https://github.com/solacite/tabletap/commit/70bc35b59ef5f28cd123fe4876ba87e103c4df1b) in [tabletap](https://github.com/solacite/tabletap) - Nov 2, 2025
+[make demo, continue stair lvl](https://github.com/solacite/tabletap/commit/bed3646240b9a41586b7833486e254adf63a5cae) in [tabletap](https://github.com/solacite/tabletap) - Nov 3, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/8758d767e0a077c93b2588bcfbf0fc245972cc48) in [solacite](https://github.com/solacite/solacite) - Nov 2, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/d4cbdfb1dd6d6abd2d57726794aabb419c65289a) in [solacite](https://github.com/solacite/solacite) - Nov 3, 2025
 
 [Initialize README with project details and badge](https://github.com/solacite/meant-to-be-messy/commit/67f84e5ae4191557300321a25980ea91d9897e5b) in [meant-to-be-messy](https://github.com/solacite/meant-to-be-messy) - Nov 1, 2025
 
