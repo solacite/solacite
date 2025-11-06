@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[horizontal lvls prog](https://github.com/solacite/tabletap/commit/958971c29740478b46566c0b21f93e54bac310f7) in [tabletap](https://github.com/solacite/tabletap) - Nov 4, 2025
+[top lvl prog](https://github.com/solacite/tabletap/commit/83ff7ecc9e6eebe67ba3d1c806d409a8331ae12f) in [tabletap](https://github.com/solacite/tabletap) - Nov 5, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/35eabf6cc57841a489387e15f8a60f3f6f451e29) in [solacite](https://github.com/solacite/solacite) - Nov 4, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/304032cb16d4518295a2de88a521e278b37120ef) in [solacite](https://github.com/solacite/solacite) - Nov 5, 2025
 
 [Initialize README with project details and badge](https://github.com/solacite/meant-to-be-messy/commit/67f84e5ae4191557300321a25980ea91d9897e5b) in [meant-to-be-messy](https://github.com/solacite/meant-to-be-messy) - Nov 1, 2025
 
