@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[top lvl prog](https://github.com/solacite/tabletap/commit/83ff7ecc9e6eebe67ba3d1c806d409a8331ae12f) in [tabletap](https://github.com/solacite/tabletap) - Nov 5, 2025
+[make godot proj files](https://github.com/solacite/sookerie/commit/e17ce82dae4a6140685a5295273edfee53abb731) in [sookerie](https://github.com/solacite/sookerie) - Nov 6, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/304032cb16d4518295a2de88a521e278b37120ef) in [solacite](https://github.com/solacite/solacite) - Nov 5, 2025
+[save?](https://github.com/solacite/once-upon-aao/commit/37a46ccf2a2cd41115fb24f9af1fed4f8ae2f9f7) in [once-upon-aao](https://github.com/solacite/once-upon-aao) - Nov 6, 2025
 
-[Initialize README with project details and badge](https://github.com/solacite/meant-to-be-messy/commit/67f84e5ae4191557300321a25980ea91d9897e5b) in [meant-to-be-messy](https://github.com/solacite/meant-to-be-messy) - Nov 1, 2025
+[upd bus name](https://github.com/solacite/out-perform/commit/4abe48a3ed6faf885e88a377905d49bef1bcd620) in [out-perform](https://github.com/solacite/out-perform) - Nov 6, 2025
 
-[build](https://github.com/solacite/tapatune/commit/8bd5138b038f30eef2bb02d2cba59a6a0cad222c) in [tapatune](https://github.com/solacite/tapatune) - Oct 21, 2025
+[Merge branch 'main' of https://github.com/solacite/wayward](https://github.com/solacite/wayward/commit/ed999eadd00ab24dfcd1bde1c5845582dee3ca3d) in [wayward](https://github.com/solacite/wayward) - Nov 6, 2025
 
-[update gitignore](https://github.com/solacite/a-letter-to-the-ether/commit/c999a6b0ad8c6dc6f3466ae814ab47b0e6f723c5) in [a-letter-to-the-ether](https://github.com/solacite/a-letter-to-the-ether) - Oct 20, 2025
+[some update idr](https://github.com/solacite/tabletap/commit/7d45740a9abf2572c5877e34ddcd3c6d840e1359) in [tabletap](https://github.com/solacite/tabletap) - Nov 6, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
