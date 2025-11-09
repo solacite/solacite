@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[wakatime addon](https://github.com/solacite/sookerie/commit/6728029c441fa3be409ecb2e52c9d3aac420276e) in [sookerie](https://github.com/solacite/sookerie) - Nov 7, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/c5fecc231b92d8b800bd0052654c2efa2b7bc7a9) in [solacite](https://github.com/solacite/solacite) - Nov 8, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/8389ec90e2975fafb6ff12a3debb0f1048c21721) in [solacite](https://github.com/solacite/solacite) - Nov 7, 2025
+[wakatime addon](https://github.com/solacite/sookerie/commit/6728029c441fa3be409ecb2e52c9d3aac420276e) in [sookerie](https://github.com/solacite/sookerie) - Nov 7, 2025
 
 [save?](https://github.com/solacite/once-upon-aao/commit/37a46ccf2a2cd41115fb24f9af1fed4f8ae2f9f7) in [once-upon-aao](https://github.com/solacite/once-upon-aao) - Nov 6, 2025
 
