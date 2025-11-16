@@ -20,15 +20,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/143357571876e9a33abb7cbda61fd9e4b2506ab1) in [solacite](https://github.com/solacite/solacite) - Nov 14, 2025
+[MAP WORKINNNNGGG](https://github.com/solacite/hate-to-house/commit/d057cf94b3e3255ad760eb5242dcfb92b132f43a) in [hate-to-house](https://github.com/solacite/hate-to-house) - Nov 16, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/3fc151ccddf8f2487a54fc1bc2829fb3a109439b) in [solacite](https://github.com/solacite/solacite) - Nov 15, 2025
 
 [wakatime addon](https://github.com/solacite/sookerie/commit/6728029c441fa3be409ecb2e52c9d3aac420276e) in [sookerie](https://github.com/solacite/sookerie) - Nov 7, 2025
 
 [save?](https://github.com/solacite/once-upon-aao/commit/37a46ccf2a2cd41115fb24f9af1fed4f8ae2f9f7) in [once-upon-aao](https://github.com/solacite/once-upon-aao) - Nov 6, 2025
 
 [upd bus name](https://github.com/solacite/out-perform/commit/4abe48a3ed6faf885e88a377905d49bef1bcd620) in [out-perform](https://github.com/solacite/out-perform) - Nov 6, 2025
-
-[Merge branch 'main' of https://github.com/solacite/wayward](https://github.com/solacite/wayward/commit/ed999eadd00ab24dfcd1bde1c5845582dee3ca3d) in [wayward](https://github.com/solacite/wayward) - Nov 6, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
