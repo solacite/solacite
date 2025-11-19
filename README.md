@@ -20,9 +20,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[wow](https://github.com/solacite/hate-to-house/commit/55be92300abaf8140e9a9894be6c67e57839e26a) in [hate-to-house](https://github.com/solacite/hate-to-house) - Nov 16, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/0cf960f49bf227b395b56580d63c468e46738215) in [solacite](https://github.com/solacite/solacite) - Nov 17, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/64d8513540b0859018babb43ba49006943f1d1f5) in [solacite](https://github.com/solacite/solacite) - Nov 16, 2025
+[wow](https://github.com/solacite/hate-to-house/commit/55be92300abaf8140e9a9894be6c67e57839e26a) in [hate-to-house](https://github.com/solacite/hate-to-house) - Nov 16, 2025
 
 [wakatime addon](https://github.com/solacite/sookerie/commit/6728029c441fa3be409ecb2e52c9d3aac420276e) in [sookerie](https://github.com/solacite/sookerie) - Nov 7, 2025
 
