@@ -12,8 +12,6 @@
 [![out-perform](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=out-perform&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
 [![wayward](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=wayward&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![my gitHub stats](https://github-readme-stats.vercel.app/api?username=solacite&theme=slateorange&hide_border=true&bg_color=00000000&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-
 <br></br><br></br>
 
 <!-- RECENT_ACTIVITY_START -->
