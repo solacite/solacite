@@ -17,7 +17,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/7d30e5259857302a342b82db9556ea2431f6bc81) in [solacite](https://github.com/solacite/solacite) - Nov 23, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/89537f5aab0a545cf7fb055ff3902d0cc7166982) in [solacite](https://github.com/solacite/solacite) - Nov 24, 2025
 
 [wow](https://github.com/solacite/hate-to-house/commit/55be92300abaf8140e9a9894be6c67e57839e26a) in [hate-to-house](https://github.com/solacite/hate-to-house) - Nov 16, 2025
 
