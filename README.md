@@ -17,15 +17,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/4100a3b0da0d806a04a956bb8a78de3797c68444) in [solacite](https://github.com/solacite/solacite) - Dec 13, 2025
+[upload pcb](https://github.com/solacite/jun-pcb/commit/f77911d445bfec4d489449ff00d71043fda4b30f) in [jun-pcb](https://github.com/solacite/jun-pcb) - Dec 14, 2025
+
+[upload literally everything](https://github.com/solacite/click-for-cash/commit/eb577020e3f5662a0ece1d9e64d4af8f6fa476c2) in [click-for-cash](https://github.com/solacite/click-for-cash) - Dec 14, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/1c3cefe08cbea56b4e03bb5e8936ff2844263514) in [solacite](https://github.com/solacite/solacite) - Dec 14, 2025
 
 [wow](https://github.com/solacite/hate-to-house/commit/55be92300abaf8140e9a9894be6c67e57839e26a) in [hate-to-house](https://github.com/solacite/hate-to-house) - Nov 16, 2025
 
 [wakatime addon](https://github.com/solacite/sookerie/commit/6728029c441fa3be409ecb2e52c9d3aac420276e) in [sookerie](https://github.com/solacite/sookerie) - Nov 7, 2025
-
-[save?](https://github.com/solacite/once-upon-aao/commit/37a46ccf2a2cd41115fb24f9af1fed4f8ae2f9f7) in [once-upon-aao](https://github.com/solacite/once-upon-aao) - Nov 6, 2025
-
-[upd bus name](https://github.com/solacite/out-perform/commit/4abe48a3ed6faf885e88a377905d49bef1bcd620) in [out-perform](https://github.com/solacite/out-perform) - Nov 6, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
