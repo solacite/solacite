@@ -17,11 +17,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
+[Update README with latest activity](https://github.com/solacite/solacite/commit/21480e25c070264370c48f91f99e10e4d2235372) in [solacite](https://github.com/solacite/solacite) - Dec 15, 2025
+
 [upload pcb](https://github.com/solacite/jun-pcb/commit/f77911d445bfec4d489449ff00d71043fda4b30f) in [jun-pcb](https://github.com/solacite/jun-pcb) - Dec 14, 2025
 
 [upload literally everything](https://github.com/solacite/click-for-cash/commit/eb577020e3f5662a0ece1d9e64d4af8f6fa476c2) in [click-for-cash](https://github.com/solacite/click-for-cash) - Dec 14, 2025
-
-[Update README with latest activity](https://github.com/solacite/solacite/commit/1c3cefe08cbea56b4e03bb5e8936ff2844263514) in [solacite](https://github.com/solacite/solacite) - Dec 14, 2025
 
 [wow](https://github.com/solacite/hate-to-house/commit/55be92300abaf8140e9a9894be6c67e57839e26a) in [hate-to-house](https://github.com/solacite/hate-to-house) - Nov 16, 2025
 
