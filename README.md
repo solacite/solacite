@@ -17,15 +17,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[upload keyring](https://github.com/solacite/haxsmas/commit/e64b96da0ccd5a4d76c9563cce5640a98d62bf36) in [haxsmas](https://github.com/solacite/haxsmas) - Dec 16, 2025
+[EVERYTHING](https://github.com/solacite/flask-shenanigans/commit/988859939ab6395d38f53a0e250c8d28bc2136f7) in [flask-shenanigans](https://github.com/solacite/flask-shenanigans) - Dec 18, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/c2bff055370f814f0b400df05b872858f795828b) in [solacite](https://github.com/solacite/solacite) - Dec 16, 2025
+[fix stuff](https://github.com/solacite/haxsmas/commit/8ecc445c88542b5690fa61d36cafe90ebbdd15db) in [haxsmas](https://github.com/solacite/haxsmas) - Dec 17, 2025
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ff8c06fbda382faf721200eb188110b9955f059e) in [solacite](https://github.com/solacite/solacite) - Dec 17, 2025
 
 [upload literally everything](https://github.com/solacite/click-for-cash/commit/eb577020e3f5662a0ece1d9e64d4af8f6fa476c2) in [click-for-cash](https://github.com/solacite/click-for-cash) - Dec 14, 2025
 
 [wow](https://github.com/solacite/hate-to-house/commit/55be92300abaf8140e9a9894be6c67e57839e26a) in [hate-to-house](https://github.com/solacite/hate-to-house) - Nov 16, 2025
-
-[wakatime addon](https://github.com/solacite/sookerie/commit/6728029c441fa3be409ecb2e52c9d3aac420276e) in [sookerie](https://github.com/solacite/sookerie) - Nov 7, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
