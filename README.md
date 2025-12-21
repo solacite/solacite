@@ -17,9 +17,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[upload ruler](https://github.com/solacite/haxsmas/commit/5490788d35d257ab59d363578f4f1ba483b009e8) in [haxsmas](https://github.com/solacite/haxsmas) - Dec 19, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/9ccbfa8ce6b64042c226ba323b93cac2fb43a19d) in [solacite](https://github.com/solacite/solacite) - Dec 20, 2025
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/754724c61100d499520bc2860c779e57ca9c4981) in [solacite](https://github.com/solacite/solacite) - Dec 19, 2025
+[upload ruler](https://github.com/solacite/haxsmas/commit/5490788d35d257ab59d363578f4f1ba483b009e8) in [haxsmas](https://github.com/solacite/haxsmas) - Dec 19, 2025
 
 [add ver](https://github.com/solacite/flask-shenanigans/commit/97e248fb8ed35d9f2c466fb69dd622a4347ab793) in [flask-shenanigans](https://github.com/solacite/flask-shenanigans) - Dec 18, 2025
 
