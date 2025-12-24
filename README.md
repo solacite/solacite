@@ -17,7 +17,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/f49b6dd5e688f21a57d0da84f76e41ad7553edf0) in [solacite](https://github.com/solacite/solacite) - Dec 22, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/6b26fdbbcf127408f7911c5ac1ffbd7c7e2cce08) in [solacite](https://github.com/solacite/solacite) - Dec 23, 2025
 
 [upload ruler](https://github.com/solacite/haxsmas/commit/5490788d35d257ab59d363578f4f1ba483b009e8) in [haxsmas](https://github.com/solacite/haxsmas) - Dec 19, 2025
 
