@@ -17,7 +17,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/9b262da2f99402fb80c878a0f15e99893c4f8990) in [solacite](https://github.com/solacite/solacite) - Dec 30, 2025
+[Update README with latest activity](https://github.com/solacite/solacite/commit/57e28518b5cf73ca07fbfa137e9ec6dda53059a0) in [solacite](https://github.com/solacite/solacite) - Dec 31, 2025
 
 [fix imgs](https://github.com/solacite/giftbox/commit/df5b0974c5c6d268bdf657439c70d05065220f36) in [giftbox](https://github.com/solacite/giftbox) - Dec 26, 2025
 
