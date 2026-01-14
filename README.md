@@ -17,9 +17,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Revise README summary for improved clarity](https://github.com/solacite/out-perform/commit/610c36d3da088e96e77c17dd2a56b312fb66d8d1) in [out-perform](https://github.com/solacite/out-perform) - Jan 12, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/761211a2bcb8bb1c36ac1f567d76f7dcb84e889d) in [solacite](https://github.com/solacite/solacite) - Jan 13, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/753e9578739ea0ee818d688ba9a55eebf3a7cc29) in [solacite](https://github.com/solacite/solacite) - Jan 12, 2026
+[Revise README summary for improved clarity](https://github.com/solacite/out-perform/commit/610c36d3da088e96e77c17dd2a56b312fb66d8d1) in [out-perform](https://github.com/solacite/out-perform) - Jan 12, 2026
 
 [fix imgs](https://github.com/solacite/giftbox/commit/df5b0974c5c6d268bdf657439c70d05065220f36) in [giftbox](https://github.com/solacite/giftbox) - Dec 26, 2025
 
