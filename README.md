@@ -17,15 +17,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/30116da26cd2e4737fcbabac2e6152d21f2d782d) in [solacite](https://github.com/solacite/solacite) - Jan 16, 2026
+[upload godot proj files](https://github.com/solacite/take-a-seat/commit/57b1010c353be8acdb940483455dc8625eacc1e4) in [take-a-seat](https://github.com/solacite/take-a-seat) - Jan 20, 2026
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/3ac68452fd22787830e7b83efe8a28f3a8887bc5) in [solacite](https://github.com/solacite/solacite) - Jan 17, 2026
 
 [Revise README summary for improved clarity](https://github.com/solacite/out-perform/commit/610c36d3da088e96e77c17dd2a56b312fb66d8d1) in [out-perform](https://github.com/solacite/out-perform) - Jan 12, 2026
 
 [fix imgs](https://github.com/solacite/giftbox/commit/df5b0974c5c6d268bdf657439c70d05065220f36) in [giftbox](https://github.com/solacite/giftbox) - Dec 26, 2025
 
 [upload ruler](https://github.com/solacite/haxsmas/commit/5490788d35d257ab59d363578f4f1ba483b009e8) in [haxsmas](https://github.com/solacite/haxsmas) - Dec 19, 2025
-
-[add ver](https://github.com/solacite/flask-shenanigans/commit/97e248fb8ed35d9f2c466fb69dd622a4347ab793) in [flask-shenanigans](https://github.com/solacite/flask-shenanigans) - Dec 18, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
