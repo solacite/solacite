@@ -17,7 +17,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/2d2b1bd7afc659cddfd766d7c12e4e4e487aacbf) in [solacite](https://github.com/solacite/solacite) - Jan 22, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/6064a4164c98aa38abbd2400071fea358548d0d0) in [solacite](https://github.com/solacite/solacite) - Jan 23, 2026
 
 [upload godot proj files](https://github.com/solacite/take-a-seat/commit/57b1010c353be8acdb940483455dc8625eacc1e4) in [take-a-seat](https://github.com/solacite/take-a-seat) - Jan 20, 2026
 
