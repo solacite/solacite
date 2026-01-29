@@ -17,9 +17,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[apply functioning vhs shader !!](https://github.com/solacite/take-a-seat/commit/694d0e95a7f90fee6c9a8101f29afd3851062d50) in [take-a-seat](https://github.com/solacite/take-a-seat) - Jan 27, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ebd6960fdec7c04d8b462b201494115e7bc3527d) in [solacite](https://github.com/solacite/solacite) - Jan 28, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/564c2e783abef08a81081565820a6c6c79bcc66f) in [solacite](https://github.com/solacite/solacite) - Jan 27, 2026
+[apply functioning vhs shader !!](https://github.com/solacite/take-a-seat/commit/694d0e95a7f90fee6c9a8101f29afd3851062d50) in [take-a-seat](https://github.com/solacite/take-a-seat) - Jan 27, 2026
 
 [Revise README summary for improved clarity](https://github.com/solacite/out-perform/commit/610c36d3da088e96e77c17dd2a56b312fb66d8d1) in [out-perform](https://github.com/solacite/out-perform) - Jan 12, 2026
 
