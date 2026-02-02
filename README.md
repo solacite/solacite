@@ -17,9 +17,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[organize files and make main menu buttons functional (albeit the credits btn leads to a blank page -- but that is a feature, not a bug ...](https://github.com/solacite/overglade/commit/977e6762a771c8d97c66f89532b5b14bac8bde11) in [overglade](https://github.com/solacite/overglade) - Jan 31, 2026
+[literally finalize everything ig](https://github.com/solacite/overglade/commit/12b36fab1c9b4b1c5e05477c82bca360c3950201) in [overglade](https://github.com/solacite/overglade) - Feb 1, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/8a50ab2b32f968632a209616fc8db6d50d977077) in [solacite](https://github.com/solacite/solacite) - Jan 31, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/c61681613882a4df2c3fb2f42f79b281e1d18a4a) in [solacite](https://github.com/solacite/solacite) - Feb 1, 2026
 
 [apply functioning vhs shader !!](https://github.com/solacite/take-a-seat/commit/694d0e95a7f90fee6c9a8101f29afd3851062d50) in [take-a-seat](https://github.com/solacite/take-a-seat) - Jan 27, 2026
 
