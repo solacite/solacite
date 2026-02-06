@@ -17,7 +17,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/05e2b3a27259e4c0c87abfa84a3bc125e05c3241) in [solacite](https://github.com/solacite/solacite) - Feb 4, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/893858e0fd17edb2bed89de8a2821e1fd92468f7) in [solacite](https://github.com/solacite/solacite) - Feb 5, 2026
 
 [literally finalize everything ig](https://github.com/solacite/overglade/commit/12b36fab1c9b4b1c5e05477c82bca360c3950201) in [overglade](https://github.com/solacite/overglade) - Feb 1, 2026
 
