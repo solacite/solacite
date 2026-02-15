@@ -17,15 +17,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/3d7c4ceee7a7ef19baea850eff66bd667cdc5196) in [solacite](https://github.com/solacite/solacite) - Feb 13, 2026
+[reset code to default svelte, attempt to start proj!](https://github.com/solacite/qwickquack/commit/6edd8a6fa9b34a60cd52ee1dd44be844122e2aa6) in [qwickquack](https://github.com/solacite/qwickquack) - Feb 15, 2026
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/c0acf8706829c28463a28ea362461d120c227f05) in [solacite](https://github.com/solacite/solacite) - Feb 14, 2026
 
 [literally finalize everything ig](https://github.com/solacite/overglade/commit/12b36fab1c9b4b1c5e05477c82bca360c3950201) in [overglade](https://github.com/solacite/overglade) - Feb 1, 2026
 
 [apply functioning vhs shader !!](https://github.com/solacite/take-a-seat/commit/694d0e95a7f90fee6c9a8101f29afd3851062d50) in [take-a-seat](https://github.com/solacite/take-a-seat) - Jan 27, 2026
 
 [Revise README summary for improved clarity](https://github.com/solacite/out-perform/commit/610c36d3da088e96e77c17dd2a56b312fb66d8d1) in [out-perform](https://github.com/solacite/out-perform) - Jan 12, 2026
-
-[fix imgs](https://github.com/solacite/giftbox/commit/df5b0974c5c6d268bdf657439c70d05065220f36) in [giftbox](https://github.com/solacite/giftbox) - Dec 26, 2025
 
 
 <!-- RECENT_ACTIVITY_END -->
