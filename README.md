@@ -17,9 +17,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[reset code to default svelte, attempt to start proj!](https://github.com/solacite/qwickquack/commit/6edd8a6fa9b34a60cd52ee1dd44be844122e2aa6) in [qwickquack](https://github.com/solacite/qwickquack) - Feb 15, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/c88155c65bb9f33c4b1745b24d0d91d6cff46758) in [solacite](https://github.com/solacite/solacite) - Feb 15, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/c0acf8706829c28463a28ea362461d120c227f05) in [solacite](https://github.com/solacite/solacite) - Feb 14, 2026
+[reset code to default svelte, attempt to start proj!](https://github.com/solacite/qwickquack/commit/6edd8a6fa9b34a60cd52ee1dd44be844122e2aa6) in [qwickquack](https://github.com/solacite/qwickquack) - Feb 15, 2026
 
 [literally finalize everything ig](https://github.com/solacite/overglade/commit/12b36fab1c9b4b1c5e05477c82bca360c3950201) in [overglade](https://github.com/solacite/overglade) - Feb 1, 2026
 
