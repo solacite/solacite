@@ -6,14 +6,6 @@
 
 <br></br><br></br>
 
-<!-- repo cards!! -->
-[![oblivescence v2](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=oblivescence-v2&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-[![packing up](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=packing-up&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-[![out-perform](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=out-perform&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-[![wayward](https://github-readme-stats.vercel.app/api/pin/?username=solacite&repo=wayward&theme=slateorange&hide_border=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-
-<br></br><br></br>
-
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
