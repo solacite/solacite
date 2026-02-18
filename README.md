@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[update, drew bg!](https://github.com/solacite/qwickquack/commit/0cd9766854236824e78d532aea4602fc65474e10) in [qwickquack](https://github.com/solacite/qwickquack) - Feb 17, 2026
+[continue building player controller (albeit slowly and why does the camera not work TT)](https://github.com/solacite/qwickquack/commit/5bba3d91c9207cca406eb039ac7932aacb57483b) in [qwickquack](https://github.com/solacite/qwickquack) - Feb 18, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/7136dc6a946ea9e24ca51a4048615b29a7325bef) in [solacite](https://github.com/solacite/solacite) - Feb 16, 2026
+[Remove repo cards section from README](https://github.com/solacite/solacite/commit/f5f9644ff9769fee9f5652a3b420ebbce023ecb5) in [solacite](https://github.com/solacite/solacite) - Feb 17, 2026
 
 [literally finalize everything ig](https://github.com/solacite/overglade/commit/12b36fab1c9b4b1c5e05477c82bca360c3950201) in [overglade](https://github.com/solacite/overglade) - Feb 1, 2026
 
