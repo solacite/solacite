@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Delete LICENSE >:C](https://github.com/solacite/qwickquack/commit/8e4c83791fc31cfcf7973af940eca1be7fb3382f) in [qwickquack](https://github.com/solacite/qwickquack) - Feb 18, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ea8942e819a1d46e94aaf94698b91e47e04daf9c) in [solacite](https://github.com/solacite/solacite) - Feb 19, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/a29edcb5fef0dec149f5236169706ce739fb354c) in [solacite](https://github.com/solacite/solacite) - Feb 18, 2026
+[Delete LICENSE >:C](https://github.com/solacite/qwickquack/commit/8e4c83791fc31cfcf7973af940eca1be7fb3382f) in [qwickquack](https://github.com/solacite/qwickquack) - Feb 18, 2026
 
 [literally finalize everything ig](https://github.com/solacite/overglade/commit/12b36fab1c9b4b1c5e05477c82bca360c3950201) in [overglade](https://github.com/solacite/overglade) - Feb 1, 2026
 
