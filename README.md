@@ -9,11 +9,11 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/64172ee6f8db830f214935467371e75fe762c31c) in [solacite](https://github.com/solacite/solacite) - Mar 31, 2026
+[Merge branch 'main' of https://github.com/solacite/qwickquack](https://github.com/solacite/qwickquack/commit/0f50b69d64b2fdf09d623525dc1bc515ce7759f5) in [qwickquack](https://github.com/solacite/qwickquack) - Apr 1, 2026
+
+[Update README with latest activity](https://github.com/solacite/solacite/commit/1ffc03e7754e8b64a8b96879d251146f1a23fcb4) in [solacite](https://github.com/solacite/solacite) - Apr 1, 2026
 
 [Enhance README with image and contributors section](https://github.com/solacite/french-baby-feet/commit/8a44d6ba169de88913ab60c6fddf6d7760e1f34b) in [french-baby-feet](https://github.com/solacite/french-baby-feet) - Feb 22, 2026
-
-[Delete LICENSE >:C](https://github.com/solacite/qwickquack/commit/8e4c83791fc31cfcf7973af940eca1be7fb3382f) in [qwickquack](https://github.com/solacite/qwickquack) - Feb 18, 2026
 
 [literally finalize everything ig](https://github.com/solacite/overglade/commit/12b36fab1c9b4b1c5e05477c82bca360c3950201) in [overglade](https://github.com/solacite/overglade) - Feb 1, 2026
 
