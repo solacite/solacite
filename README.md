@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[godot proj files](https://github.com/solacite/qwickquack/commit/b9d3bc3be461376dac2dcea27aa6f73ee82eebd7) in [qwickquack](https://github.com/solacite/qwickquack) - May 7, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/f9c159f8edd1a21f063d30d4b18a7e757ac8f9eb) in [solacite](https://github.com/solacite/solacite) - May 8, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/cac0d3d50c217f5c965bae2a3cfaef595f39fdf8) in [solacite](https://github.com/solacite/solacite) - May 7, 2026
+[godot proj files](https://github.com/solacite/qwickquack/commit/b9d3bc3be461376dac2dcea27aa6f73ee82eebd7) in [qwickquack](https://github.com/solacite/qwickquack) - May 7, 2026
 
 [Enhance README with image and contributors section](https://github.com/solacite/french-baby-feet/commit/8a44d6ba169de88913ab60c6fddf6d7760e1f34b) in [french-baby-feet](https://github.com/solacite/french-baby-feet) - Feb 22, 2026
 
