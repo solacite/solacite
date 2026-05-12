@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[fix shader](https://github.com/solacite/take-a-seat/commit/23b86ac49b6ad334de48e7448e4f7a9156518736) in [take-a-seat](https://github.com/solacite/take-a-seat) - May 11, 2026
+[so it was a plane and not a train because i have amnesia. thanks frob](https://github.com/solacite/take-a-seat/commit/558bb2e5ac36b0af4b116f639f711dd063e6f595) in [take-a-seat](https://github.com/solacite/take-a-seat) - May 11, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/5c4f1e186d5049b990bb23511d4ccb8db5d61bfc) in [solacite](https://github.com/solacite/solacite) - May 10, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/6dbff2b6a831f9989784701c2c5c8794e84ef31e) in [solacite](https://github.com/solacite/solacite) - May 11, 2026
 
 [waka addon](https://github.com/solacite/qwickquacking/commit/a4269b69d6e9a5900ced1be70b84c0ef72dcdd2c) in [qwickquacking](https://github.com/solacite/qwickquacking) - May 9, 2026
 
