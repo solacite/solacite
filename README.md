@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[we do not admit our failures*](https://github.com/solacite/take-a-seat/commit/ffea541ab84a2150d3ac44b772f481fdb133b6eb) in [take-a-seat](https://github.com/solacite/take-a-seat) - May 12, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/ada5a1f93a2c0d28256570fa4ff8e77d17548633) in [solacite](https://github.com/solacite/solacite) - May 13, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/3493f0c99c59ae0cb5bb955fb88ffdea81874567) in [solacite](https://github.com/solacite/solacite) - May 12, 2026
+[we do not admit our failures*](https://github.com/solacite/take-a-seat/commit/ffea541ab84a2150d3ac44b772f481fdb133b6eb) in [take-a-seat](https://github.com/solacite/take-a-seat) - May 12, 2026
 
 [waka addon](https://github.com/solacite/qwickquacking/commit/a4269b69d6e9a5900ced1be70b84c0ef72dcdd2c) in [qwickquacking](https://github.com/solacite/qwickquacking) - May 9, 2026
 
