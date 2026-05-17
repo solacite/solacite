@@ -9,7 +9,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/617f63fccdc901098369db625504668face3b20b) in [solacite](https://github.com/solacite/solacite) - May 15, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/6167eb21e7ca4d99c44832b503cc61a27e1b4ba7) in [solacite](https://github.com/solacite/solacite) - May 16, 2026
 
 [we do not admit our failures*](https://github.com/solacite/take-a-seat/commit/ffea541ab84a2150d3ac44b772f481fdb133b6eb) in [take-a-seat](https://github.com/solacite/take-a-seat) - May 12, 2026
 
