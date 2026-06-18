@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[IT VVORKS!!!](https://github.com/solacite/prologue/commit/43b79904a6a9921c5a5fc61906d6c25562dc1153) in [prologue](https://github.com/solacite/prologue) - Jun 17, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/f007d90b5ea9ec9a7ab699b1c77b1eec3b226b3e) in [solacite](https://github.com/solacite/solacite) - Jun 17, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/8366af7aaa301d95765f773e94ed4ed5d4e4be3d) in [solacite](https://github.com/solacite/solacite) - Jun 16, 2026
+[IT VVORKS!!!](https://github.com/solacite/prologue/commit/43b79904a6a9921c5a5fc61906d6c25562dc1153) in [prologue](https://github.com/solacite/prologue) - Jun 17, 2026
 
 [first commit! a README creation & update](https://github.com/solacite/blink-gone/commit/89bffe269a7a7bc86b03938e6d2e2ef7a2da60e6) in [blink-gone](https://github.com/solacite/blink-gone) - Jun 14, 2026
 
