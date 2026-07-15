@@ -9,7 +9,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/af7ee112c2f1b47d40936a8a558b7cdbac8c5b52) in [solacite](https://github.com/solacite/solacite) - Jul 13, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/91f60572253a101ca26f3ee5a82b26d1f3e76d14) in [solacite](https://github.com/solacite/solacite) - Jul 14, 2026
 
 [fillout link](https://github.com/solacite/suncatcher-asylum/commit/3d714fac2a4834e955fae5f11165e85435395b99) in [suncatcher-asylum](https://github.com/solacite/suncatcher-asylum) - Jun 26, 2026
 
