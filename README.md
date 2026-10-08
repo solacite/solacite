@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[fix bg color](https://github.com/solacite/suncatcher/commit/0ad063ca51cac6b71d7e5f2881656884519d7090) in [suncatcher](https://github.com/solacite/suncatcher) - Sep 11, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/64822d47d66289a79d5b777aa4638ed716385a81) in [solacite](https://github.com/solacite/solacite) - Oct 7, 2026
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/04e1f4dee8512fcb730e88d7ff18df149ad49dde) in [solacite](https://github.com/solacite/solacite) - Jul 27, 2026
+[fix bg color](https://github.com/solacite/suncatcher/commit/0ad063ca51cac6b71d7e5f2881656884519d7090) in [suncatcher](https://github.com/solacite/suncatcher) - Sep 11, 2026
 
 [fillout link](https://github.com/solacite/suncatcher-asylum/commit/3d714fac2a4834e955fae5f11165e85435395b99) in [suncatcher-asylum](https://github.com/solacite/suncatcher-asylum) - Jun 26, 2026
 
