@@ -9,7 +9,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Update README with latest activity](https://github.com/solacite/solacite/commit/663ba6efb809b178b1a72095205cd6d20fbf1a16) in [solacite](https://github.com/solacite/solacite) - Oct 13, 2026
+[Update README with latest activity](https://github.com/solacite/solacite/commit/fc178c541091843a3bacd37d514595d8d291e9b7) in [solacite](https://github.com/solacite/solacite) - Oct 14, 2026
 
 [fix bg color](https://github.com/solacite/suncatcher/commit/0ad063ca51cac6b71d7e5f2881656884519d7090) in [suncatcher](https://github.com/solacite/suncatcher) - Sep 11, 2026
 
