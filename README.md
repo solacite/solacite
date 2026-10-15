@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[preload mission icons on profile project cards (#1470)](https://github.com/hackclub/stardance/commit/8bb910110f51bfefe9fe91d2acb10ccb761af06d) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 14, 2026
+[preload mission icons on profile cards](https://github.com/hackclub/stardance/pull/1470) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 14, 2026
 
-[add taiyaki CNAME record for ingress!!! (#3808)](https://github.com/hackclub/dns/commit/42acdd0f6f6d427a2c8c3466a3b38568713ce762) in [hackclub/dns](https://github.com/hackclub/dns) - Oct 6, 2026
+[add taiyaki CNAME record for ingress!!!](https://github.com/hackclub/dns/pull/3808) in [hackclub/dns](https://github.com/hackclub/dns) - Oct 6, 2026
 
 [fix bg color](https://github.com/solacite/suncatcher/commit/0ad063ca51cac6b71d7e5f2881656884519d7090) in [suncatcher](https://github.com/solacite/suncatcher) - Sep 11, 2026
 
