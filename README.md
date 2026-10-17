@@ -9,7 +9,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[preload mission icons on profile cards](https://github.com/hackclub/stardance/pull/1470) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 14, 2026
+[count time from late-linked hackatime projects](https://github.com/hackclub/stardance/pull/1488) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 16, 2026
 
 [add taiyaki CNAME record for ingress!!!](https://github.com/hackclub/dns/pull/3808) in [hackclub/dns](https://github.com/hackclub/dns) - Oct 6, 2026
 
