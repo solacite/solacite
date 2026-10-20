@@ -9,15 +9,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[delete stray super star posts](https://github.com/hackclub/stardance/pull/1507) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 17, 2026
+[fix divider headings rendering half cut off](https://github.com/solacite/stop-dont-do/commit/741a90f41b64d6a511509abb99b238232a444764) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 20, 2026
+
+[add jimberjake poll popup](https://github.com/hackclub/stardance/pull/1516) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 19, 2026
 
 [add taiyaki CNAME record for ingress!!!](https://github.com/hackclub/dns/pull/3808) in [hackclub/dns](https://github.com/hackclub/dns) - Oct 6, 2026
 
 [fix bg color](https://github.com/solacite/suncatcher/commit/0ad063ca51cac6b71d7e5f2881656884519d7090) in [suncatcher](https://github.com/solacite/suncatcher) - Sep 11, 2026
 
 [fillout link](https://github.com/solacite/suncatcher-asylum/commit/3d714fac2a4834e955fae5f11165e85435395b99) in [suncatcher-asylum](https://github.com/solacite/suncatcher-asylum) - Jun 26, 2026
-
-[IT VVORKS!!!](https://github.com/solacite/prologue/commit/43b79904a6a9921c5a5fc61906d6c25562dc1153) in [prologue](https://github.com/solacite/prologue) - Jun 17, 2026
 
 
 <!-- RECENT_ACTIVITY_END -->
