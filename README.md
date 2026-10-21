@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[fix divider headings rendering half cut off](https://github.com/solacite/stop-dont-do/commit/741a90f41b64d6a511509abb99b238232a444764) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 20, 2026
+[activity: hidden-section mentions get their own hidden tab next to dms](https://github.com/solacite/stop-dont-do/commit/820e54e90c89b92280e7d532dc1740378ce97604) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 21, 2026
 
-[add jimberjake poll popup](https://github.com/hackclub/stardance/pull/1516) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 19, 2026
+[keep aged-out accounts able to ship & shop](https://github.com/hackclub/stardance/pull/1526) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 20, 2026
 
 [add taiyaki CNAME record for ingress!!!](https://github.com/hackclub/dns/pull/3808) in [hackclub/dns](https://github.com/hackclub/dns) - Oct 6, 2026
 
