@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[activity: hidden-section mentions get their own hidden tab next to dms](https://github.com/solacite/stop-dont-do/commit/820e54e90c89b92280e7d532dc1740378ce97604) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 21, 2026
+[activity: drop the title and put its buttons on the tabs row](https://github.com/solacite/stop-dont-do/commit/71b48f04e86f051dd97e7745702cb2e723524ad7) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 22, 2026
 
-[keep aged-out accounts able to ship & shop](https://github.com/hackclub/stardance/pull/1526) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 20, 2026
+[hide the scorecard scrollbar](https://github.com/hackclub/stardance/pull/1532) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 21, 2026
 
 [add taiyaki CNAME record for ingress!!!](https://github.com/hackclub/dns/pull/3808) in [hackclub/dns](https://github.com/hackclub/dns) - Oct 6, 2026
 
