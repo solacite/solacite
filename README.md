@@ -9,7 +9,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[activity: drop the title and put its buttons on the tabs row](https://github.com/solacite/stop-dont-do/commit/71b48f04e86f051dd97e7745702cb2e723524ad7) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 22, 2026
+[closing a profile opened from a members list takes you back to where you were](https://github.com/solacite/stop-dont-do/commit/eba4b4d3f16e0dc84ce94536e51dbfa4de6f71b6) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 22, 2026
 
 [hide the scorecard scrollbar](https://github.com/hackclub/stardance/pull/1532) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 21, 2026
 
