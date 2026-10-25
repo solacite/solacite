@@ -9,7 +9,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[closing a profile opened from a members list takes you back to where you were](https://github.com/solacite/stop-dont-do/commit/eba4b4d3f16e0dc84ce94536e51dbfa4de6f71b6) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 22, 2026
+[keep a to-dos button on the rail when slack moves it into the more menu](https://github.com/solacite/stop-dont-do/commit/42691fdc0f502f8d7c1f6035a4c2326b480814c6) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 24, 2026
 
 [hide the scorecard scrollbar](https://github.com/hackclub/stardance/pull/1532) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 21, 2026
 
