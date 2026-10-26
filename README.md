@@ -9,15 +9,15 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[keep a to-dos button on the rail when slack moves it into the more menu](https://github.com/solacite/stop-dont-do/commit/42691fdc0f502f8d7c1f6035a4c2326b480814c6) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 24, 2026
+[push everything because i forgot to](https://github.com/solacite/full-house/commit/82bfb7bbb11ac5b176400318b35be4cb5acff636) in [full-house](https://github.com/solacite/full-house) - Oct 25, 2026
 
-[hide the scorecard scrollbar](https://github.com/hackclub/stardance/pull/1532) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 21, 2026
+[let ysws override skip the 19 time cutoff](https://github.com/hackclub/stardance/pull/1541) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 25, 2026
+
+[keep a to-dos button on the rail when slack moves it into the more menu](https://github.com/solacite/stop-dont-do/commit/42691fdc0f502f8d7c1f6035a4c2326b480814c6) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 24, 2026
 
 [add taiyaki CNAME record for ingress!!!](https://github.com/hackclub/dns/pull/3808) in [hackclub/dns](https://github.com/hackclub/dns) - Oct 6, 2026
 
 [fix bg color](https://github.com/solacite/suncatcher/commit/0ad063ca51cac6b71d7e5f2881656884519d7090) in [suncatcher](https://github.com/solacite/suncatcher) - Sep 11, 2026
-
-[fillout link](https://github.com/solacite/suncatcher-asylum/commit/3d714fac2a4834e955fae5f11165e85435395b99) in [suncatcher-asylum](https://github.com/solacite/suncatcher-asylum) - Jun 26, 2026
 
 
 <!-- RECENT_ACTIVITY_END -->
