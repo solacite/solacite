@@ -9,9 +9,9 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[push everything because i forgot to](https://github.com/solacite/full-house/commit/82bfb7bbb11ac5b176400318b35be4cb5acff636) in [full-house](https://github.com/solacite/full-house) - Oct 25, 2026
+[compact buku box + countdown to the end of stardance](https://github.com/hackclub/stardance/pull/1543) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 26, 2026
 
-[let ysws override skip the 19 time cutoff](https://github.com/hackclub/stardance/pull/1541) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 25, 2026
+[push everything because i forgot to](https://github.com/solacite/full-house/commit/82bfb7bbb11ac5b176400318b35be4cb5acff636) in [full-house](https://github.com/solacite/full-house) - Oct 25, 2026
 
 [keep a to-dos button on the rail when slack moves it into the more menu](https://github.com/solacite/stop-dont-do/commit/42691fdc0f502f8d7c1f6035a4c2326b480814c6) in [stop-dont-do](https://github.com/solacite/stop-dont-do) - Oct 24, 2026
 
