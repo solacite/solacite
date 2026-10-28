@@ -9,7 +9,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[compact buku box + countdown to the end of stardance](https://github.com/hackclub/stardance/pull/1543) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 26, 2026
+[Finality: ship-early stardust bonus and raffle pool](https://github.com/hackclub/stardance/pull/1555) in [hackclub/stardance](https://github.com/hackclub/stardance) - Oct 27, 2026
 
 [push everything because i forgot to](https://github.com/solacite/full-house/commit/82bfb7bbb11ac5b176400318b35be4cb5acff636) in [full-house](https://github.com/solacite/full-house) - Oct 25, 2026
 
