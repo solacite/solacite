@@ -9,7 +9,7 @@
 <!-- RECENT_ACTIVITY_START -->
 recent activity:
 
-[Hide the page scrollbar while the finale plays](https://github.com/hackclub/stardance/pull/1599) in [hackclub/stardance](https://github.com/hackclub/stardance) - Nov 3, 2026
+[keep top banners above everything](https://github.com/hackclub/stardance/pull/1604) in [hackclub/stardance](https://github.com/hackclub/stardance) - Nov 9, 2026
 
 [set up basic scene + player (ft. default script)](https://github.com/solacite/mariah-carey-hospitalized/commit/e46f395c7d1b6755049fc75b9cf97708d0e231a5) in [mariah-carey-hospitalized](https://github.com/solacite/mariah-carey-hospitalized) - Nov 2, 2026
 
